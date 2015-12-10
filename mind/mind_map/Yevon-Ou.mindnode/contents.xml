@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>D78711C3-B138-4587-B9A7-F0EBDBD92953</string>
+				<string>FAADF05C-A3C5-4557-8F61-119460EBEDD0</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>23AC6EC6-3FDE-468C-B6BC-95EAC4F33E85</string>
+				<string>57E1CDE7-79AF-469C-A525-36ABCB7D9E0C</string>
 				<key>strokeColor</key>
 				<string>{0.273, 0.357, 0.383, 1.000}</string>
 				<key>strokeStyle</key>
@@ -30,17 +30,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-247.515, 22.7673}</string>
+				<string>{-239.015, 38.2673}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>26C6AC5D-030D-4FDC-BD33-01E33A857CCC</string>
+				<string>66BC7580-ACD9-4BB3-AAB8-C2CC40E39F0F</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F172577B-C23C-4EDD-BBF9-90248235DE9E</string>
+				<string>FEAFF512-64EB-4414-92EC-063FDE49297A</string>
 				<key>strokeColor</key>
 				<string>{0.273, 0.357, 0.383, 1.000}</string>
 				<key>strokeStyle</key>
@@ -48,17 +48,17 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{502.762, -175.198}</string>
+				<string>{516.262, -175.198}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>1</integer>
 				<key>endNodeID</key>
-				<string>E7BE4C57-2E31-4E41-A8FE-8D79DD3BF3FF</string>
+				<string>C9A85EB3-59BD-405B-A153-44085CA16F9A</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>8CE4C20C-C7A7-4671-A988-4DF277567E88</string>
+				<string>CCFB51CA-CE6A-4041-9A50-D77EB077B767</string>
 				<key>strokeColor</key>
 				<string>{0.273, 0.357, 0.383, 1.000}</string>
 				<key>strokeStyle</key>
@@ -66,7 +66,7 @@
 				<key>strokeWidth</key>
 				<real>1</real>
 				<key>wayPointOffset</key>
-				<string>{-18.3579, -38.6577}</string>
+				<string>{-18.3579, -41.6577}</string>
 			</dict>
 		</array>
 		<key>color</key>
@@ -87,7 +87,7 @@
 				<key>location</key>
 				<string>{-799.65698455231086, -361.45070727127705}</string>
 				<key>nodeID</key>
-				<string>D78711C3-B138-4587-B9A7-F0EBDBD92953</string>
+				<string>FAADF05C-A3C5-4557-8F61-119460EBEDD0</string>
 				<key>strokeColor</key>
 				<string>{0.273, 0.357, 0.383, 1.000}</string>
 				<key>strokeStyle</key>
@@ -101,7 +101,7 @@
 					<key>constrainedWidth</key>
 					<integer>300</integer>
 					<key>htmlText</key>
-					<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;Syndica RE&lt;/p&gt;</string>
+					<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;Syndica RE&lt;/p&gt;</string>
 					<key>shrinkToFitContent</key>
 					<integer>1</integer>
 					<key>text</key>
@@ -110,7 +110,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 Syndica RE}</string>
+\f0\fs28 \cf2 Syndica RE}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -127,7 +127,7 @@
 				<key>location</key>
 				<string>{0, 0}</string>
 				<key>nodeID</key>
-				<string>3CE35ECB-11A5-424F-BA99-23194BEB8C8A</string>
+				<string>CC02E93E-E070-4A88-B1E5-3811D5D18C2A</string>
 				<key>strokeColor</key>
 				<string>{0.273, 0.357, 0.383, 1.000}</string>
 				<key>strokeStyle</key>
@@ -148,9 +148,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-112, -323.5}</string>
+						<string>{-112, -340}</string>
 						<key>nodeID</key>
-						<string>BB3B0F69-00C4-41D8-A9C7-964C6FAD6140</string>
+						<string>03433D2A-E4C6-4272-A6EE-7D9DA2269F5A</string>
 						<key>strokeColor</key>
 						<string>{0.647, 0.468, 0.027, 1.000}</string>
 						<key>strokeStyle</key>
@@ -171,9 +171,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-224, -498.5}</string>
+								<string>{-226, -532}</string>
 								<key>nodeID</key>
-								<string>979C6A97-BF48-4902-8317-BB5BF83411DB</string>
+								<string>E990E919-717E-4029-B217-99011F0BAAD4</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -194,9 +194,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-483, -561}</string>
+										<string>{-499, -597}</string>
 										<key>nodeID</key>
-										<string>E7571BBD-FDA4-4986-A288-C939997B6047</string>
+										<string>781F6E81-BBFF-459B-9375-10FA3D520C24</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -210,7 +210,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00010&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：明确基本方法，体用术&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00010&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：明确基本方法，体用术&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -219,8 +219,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00010
-\f1 \cf2 \'a3\'ba\'c3\'f7\'c8\'b7\'bb\'f9\'b1\'be\'b7\'bd\'b7\'a8\'a3\'ac\'cc\'e5\'d3\'c3\'ca\'f5}</string>
+\f0\fs28 \cf2 #00010
+\f1 \'a3\'ba\'c3\'f7\'c8\'b7\'bb\'f9\'b1\'be\'b7\'bd\'b7\'a8\'a3\'ac\'cc\'e5\'d3\'c3\'ca\'f5}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -235,9 +235,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -529}</string>
+										<string>{-583, -564}</string>
 										<key>nodeID</key>
-										<string>954DEC0A-1098-44F0-8179-2A6C120F03B1</string>
+										<string>F4BBD38A-A529-4C65-B6F6-F4AE18903C69</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -251,7 +251,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00020&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：经济学是政治经济学，是统治者塞给你的经济学&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00020&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：经济学是政治经济学，是统治者塞给你的经济学&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -260,8 +260,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00020
-\f1 \cf2 \'a3\'ba\'be\'ad\'bc\'c3\'d1\'a7\'ca\'c7\'d5\'fe\'d6\'ce\'be\'ad\'bc\'c3\'d1\'a7\'a3\'ac\'ca\'c7\'cd\'b3\'d6\'ce\'d5\'df\'c8\'fb\'b8\'f8\'c4\'e3\'b5\'c4\'be\'ad\'bc\'c3\'d1\'a7}</string>
+\f0\fs28 \cf2 #00020
+\f1 \'a3\'ba\'be\'ad\'bc\'c3\'d1\'a7\'ca\'c7\'d5\'fe\'d6\'ce\'be\'ad\'bc\'c3\'d1\'a7\'a3\'ac\'ca\'c7\'cd\'b3\'d6\'ce\'d5\'df\'c8\'fb\'b8\'f8\'c4\'e3\'b5\'c4\'be\'ad\'bc\'c3\'d1\'a7}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -276,9 +276,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -484}</string>
+										<string>{-583, -517}</string>
 										<key>nodeID</key>
-										<string>E1A447A0-B218-479F-8A77-0D6906DCEDDF</string>
+										<string>F64B45F1-D678-4F79-8226-9DDD86D0FD94</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -292,7 +292,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00030&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：无风险套利条件：扭曲的大市场，大多数人不知道已经扭曲&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00030&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：无风险套利条件：扭曲的大市场，大多数人不知道已经扭曲&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -301,8 +301,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00030
-\f1 \cf2 \'a3\'ba\'ce\'de\'b7\'e7\'cf\'d5\'cc\'d7\'c0\'fb\'cc\'f5\'bc\'fe\'a3\'ba\'c5\'a4\'c7\'fa\'b5\'c4\'b4\'f3\'ca\'d0\'b3\'a1\'a3\'ac\'b4\'f3\'b6\'e0\'ca\'fd\'c8\'cb\'b2\'bb\'d6\'aa\'b5\'c0\'d2\'d1\'be\'ad\'c5\'a4\'c7\'fa}</string>
+\f0\fs28 \cf2 #00030
+\f1 \'a3\'ba\'ce\'de\'b7\'e7\'cf\'d5\'cc\'d7\'c0\'fb\'cc\'f5\'bc\'fe\'a3\'ba\'c5\'a4\'c7\'fa\'b5\'c4\'b4\'f3\'ca\'d0\'b3\'a1\'a3\'ac\'b4\'f3\'b6\'e0\'ca\'fd\'c8\'cb\'b2\'bb\'d6\'aa\'b5\'c0\'d2\'d1\'be\'ad\'c5\'a4\'c7\'fa}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -317,9 +317,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-479, -439}</string>
+										<string>{-496, -470}</string>
 										<key>nodeID</key>
-										<string>23AC6EC6-3FDE-468C-B6BC-95EAC4F33E85</string>
+										<string>57E1CDE7-79AF-469C-A525-36ABCB7D9E0C</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -333,7 +333,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00040&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：打造自己的框架－&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;体&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;”&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00040&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：打造自己的框架－&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;体&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;”&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -342,11 +342,11 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00040
-\f1 \cf2 \'a3\'ba\'b4\'f2\'d4\'ec\'d7\'d4\'bc\'ba\'b5\'c4\'bf\'f2\'bc\'dc\'a3\'ad
-\f0 \cf2 \'93
-\f1 \cf2 \'cc\'e5
-\f0 \cf2 \'94}</string>
+\f0\fs28 \cf2 #00040
+\f1 \'a3\'ba\'b4\'f2\'d4\'ec\'d7\'d4\'bc\'ba\'b5\'c4\'bf\'f2\'bc\'dc\'a3\'ad
+\f0 \'93
+\f1 \'cc\'e5
+\f0 \'94}</string>
 										</dict>
 									</dict>
 								</array>
@@ -355,7 +355,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;体用术&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;体用术&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -364,7 +364,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'cc\'e5\'d3\'c3\'ca\'f5}</string>
+\f0\fs28 \cf2 \'cc\'e5\'d3\'c3\'ca\'f5}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -379,9 +379,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-224, -383}</string>
+								<string>{-224, -412}</string>
 								<key>nodeID</key>
-								<string>F2A5748C-8795-46C2-B65B-7D276250BD50</string>
+								<string>5B59A647-22DD-4200-A3A2-B189825F76A5</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -402,9 +402,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-462, -407}</string>
+										<string>{-475, -437}</string>
 										<key>nodeID</key>
-										<string>CEFCAAFF-1613-4AF2-AA87-F8FB87D2569C</string>
+										<string>C4F52E05-2851-4A1D-9CEE-D40315D6880C</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -418,7 +418,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00050&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;dT &amp;gt; 0&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;T&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;代表交易&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00050&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;dT &amp;gt; 0&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;T&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;代表交易&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -427,12 +427,12 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00050
-\f1 \cf2 \'a3\'ba
-\f0 \cf2 dT &gt; 0
-\f1 \cf2 \'a3\'ac
-\f0 \cf2 T
-\f1 \cf2 \'b4\'fa\'b1\'ed\'bd\'bb\'d2\'d7}</string>
+\f0\fs28 \cf2 #00050
+\f1 \'a3\'ba
+\f0 dT &gt; 0
+\f1 \'a3\'ac
+\f0 T
+\f1 \'b4\'fa\'b1\'ed\'bd\'bb\'d2\'d7}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -447,9 +447,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -375}</string>
+										<string>{-581, -404}</string>
 										<key>nodeID</key>
-										<string>8F782ABA-45B9-43E4-99DB-213E5DA335CE</string>
+										<string>F7672CC2-D20E-4071-8CBD-8E62A2B1B441</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -463,7 +463,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00060&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：增加交易与合作的可能性，国家才会富裕&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00060&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：增加交易与合作的可能性，国家才会富裕&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -472,8 +472,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00060
-\f1 \cf2 \'a3\'ba\'d4\'f6\'bc\'d3\'bd\'bb\'d2\'d7\'d3\'eb\'ba\'cf\'d7\'f7\'b5\'c4\'bf\'c9\'c4\'dc\'d0\'d4\'a3\'ac\'b9\'fa\'bc\'d2\'b2\'c5\'bb\'e1\'b8\'bb\'d4\'a3}</string>
+\f0\fs28 \cf2 #00060
+\f1 \'a3\'ba\'d4\'f6\'bc\'d3\'bd\'bb\'d2\'d7\'d3\'eb\'ba\'cf\'d7\'f7\'b5\'c4\'bf\'c9\'c4\'dc\'d0\'d4\'a3\'ac\'b9\'fa\'bc\'d2\'b2\'c5\'bb\'e1\'b8\'bb\'d4\'a3}</string>
 										</dict>
 									</dict>
 								</array>
@@ -482,7 +482,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;交易&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;交易&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -491,7 +491,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'bd\'bb\'d2\'d7}</string>
+\f0\fs28 \cf2 \'bd\'bb\'d2\'d7}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -506,9 +506,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-224, -269}</string>
+								<string>{-224, -283.5}</string>
 								<key>nodeID</key>
-								<string>370B8246-4C38-4CE9-A837-F0007742F886</string>
+								<string>1D69BA50-463F-4123-95D9-ECA142227D81</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -529,9 +529,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-495, -330}</string>
+										<string>{-511, -357}</string>
 										<key>nodeID</key>
-										<string>C9BDE119-D744-4EE0-8212-D6DA6960797B</string>
+										<string>47E9F68C-2A5C-447D-9CCF-B42007DB13B4</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -545,7 +545,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00070&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：政治即抢劫，是&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;SOV&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;争抢&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00070&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：政治即抢劫，是&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;SOV&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;争抢&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -554,10 +554,10 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00070
-\f1 \cf2 \'a3\'ba\'d5\'fe\'d6\'ce\'bc\'b4\'c7\'c0\'bd\'d9\'a3\'ac\'ca\'c7
-\f0 \cf2 SOV
-\f1 \cf2 \'d5\'f9\'c7\'c0}</string>
+\f0\fs28 \cf2 #00070
+\f1 \'a3\'ba\'d5\'fe\'d6\'ce\'bc\'b4\'c7\'c0\'bd\'d9\'a3\'ac\'ca\'c7
+\f0 SOV
+\f1 \'d5\'f9\'c7\'c0}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -572,9 +572,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-522, -298}</string>
+										<string>{-539, -324}</string>
 										<key>nodeID</key>
-										<string>609A37DD-45AF-4114-A3A5-AE48637B49A4</string>
+										<string>FEBFBE4D-36DC-4DAD-83DC-6D14F84B2D4A</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -588,7 +588,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00080&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：媒体是邪恶的，学会独立思考&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00080&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：媒体是邪恶的，学会独立思考&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -597,8 +597,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00080
-\f1 \cf2 \'a3\'ba\'c3\'bd\'cc\'e5\'ca\'c7\'d0\'b0\'b6\'f1\'b5\'c4\'a3\'ac\'d1\'a7\'bb\'e1\'b6\'c0\'c1\'a2\'cb\'bc\'bf\'bc}</string>
+\f0\fs28 \cf2 #00080
+\f1 \'a3\'ba\'c3\'bd\'cc\'e5\'ca\'c7\'d0\'b0\'b6\'f1\'b5\'c4\'a3\'ac\'d1\'a7\'bb\'e1\'b6\'c0\'c1\'a2\'cb\'bc\'bf\'bc}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -613,9 +613,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -266}</string>
+										<string>{-581, -291}</string>
 										<key>nodeID</key>
-										<string>AD44D960-80C4-4A31-A2D4-96BF6A2B522B</string>
+										<string>F7E2B5B3-FB72-44F8-8512-67E2A169BE37</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -629,7 +629,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00082&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：先有法制，土地才会值钱才会有人投资&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00082&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：先有法制，土地才会值钱才会有人投资&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -638,8 +638,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00082
-\f1 \cf2 \'a3\'ba\'cf\'c8\'d3\'d0\'b7\'a8\'d6\'c6\'a3\'ac\'cd\'c1\'b5\'d8\'b2\'c5\'bb\'e1\'d6\'b5\'c7\'ae\'b2\'c5\'bb\'e1\'d3\'d0\'c8\'cb\'cd\'b6\'d7\'ca}</string>
+\f0\fs28 \cf2 #00082
+\f1 \'a3\'ba\'cf\'c8\'d3\'d0\'b7\'a8\'d6\'c6\'a3\'ac\'cd\'c1\'b5\'d8\'b2\'c5\'bb\'e1\'d6\'b5\'c7\'ae\'b2\'c5\'bb\'e1\'d3\'d0\'c8\'cb\'cd\'b6\'d7\'ca}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -654,9 +654,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-561, -222.5}</string>
+										<string>{-581, -228.5}</string>
 										<key>nodeID</key>
-										<string>5F401008-2CE2-4B7C-A9D7-9E5955B11173</string>
+										<string>7715AC97-23D5-4171-9C5B-09DB32CABB4B</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -677,9 +677,9 @@
 												<key>isLeftAligned</key>
 												<true/>
 												<key>location</key>
-												<string>{-922, -234}</string>
+												<string>{-934, -244}</string>
 												<key>nodeID</key>
-												<string>08D55CE3-5C50-40A7-AE68-BB59CAE10D17</string>
+												<string>4F2427D3-142C-45D1-8375-C31E1603B1B4</string>
 												<key>strokeColor</key>
 												<string>{0.647, 0.468, 0.027, 1.000}</string>
 												<key>strokeStyle</key>
@@ -693,16 +693,20 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;砖本位：除了生活必须流动的资金，其他的大头以砖头方式存储。譬如98%的资产是房产，2%的资产是日常现金&lt;/p&gt;</string>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;砖本位：除了生活必须流动的资金，其他的大头以砖头方式存储。譬如&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;98%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的资产是房产，&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;2%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的资产是日常现金&lt;/span&gt;&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'d7\'a9\'b1\'be\'ce\'bb\'a3\'ba\'b3\'fd\'c1\'cb\'c9\'fa\'bb\'ee\'b1\'d8\'d0\'eb\'c1\'f7\'b6\'af\'b5\'c4\'d7\'ca\'bd\'f0\'a3\'ac\'c6\'e4\'cb\'fb\'b5\'c4\'b4\'f3\'cd\'b7\'d2\'d4\'d7\'a9\'cd\'b7\'b7\'bd\'ca\'bd\'b4\'e6\'b4\'a2\'a1\'a3\'c6\'a9\'c8\'e798%\'b5\'c4\'d7\'ca\'b2\'fa\'ca\'c7\'b7\'bf\'b2\'fa\'a3\'ac2%\'b5\'c4\'d7\'ca\'b2\'fa\'ca\'c7\'c8\'d5\'b3\'a3\'cf\'d6\'bd\'f0}</string>
+\f0\fs28 \cf2 \'d7\'a9\'b1\'be\'ce\'bb\'a3\'ba\'b3\'fd\'c1\'cb\'c9\'fa\'bb\'ee\'b1\'d8\'d0\'eb\'c1\'f7\'b6\'af\'b5\'c4\'d7\'ca\'bd\'f0\'a3\'ac\'c6\'e4\'cb\'fb\'b5\'c4\'b4\'f3\'cd\'b7\'d2\'d4\'d7\'a9\'cd\'b7\'b7\'bd\'ca\'bd\'b4\'e6\'b4\'a2\'a1\'a3\'c6\'a9\'c8\'e7
+\f1 98%
+\f0 \'b5\'c4\'d7\'ca\'b2\'fa\'ca\'c7\'b7\'bf\'b2\'fa\'a3\'ac
+\f1 2%
+\f0 \'b5\'c4\'d7\'ca\'b2\'fa\'ca\'c7\'c8\'d5\'b3\'a3\'cf\'d6\'bd\'f0}</string>
 												</dict>
 											</dict>
 										</array>
@@ -711,7 +715,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00100&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：砖本位和现金本位的本金抗缩水能力&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00100&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：砖本位和现金本位的本金抗缩水能力&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -720,8 +724,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00100
-\f1 \cf2 \'a3\'ba\'d7\'a9\'b1\'be\'ce\'bb\'ba\'cd\'cf\'d6\'bd\'f0\'b1\'be\'ce\'bb\'b5\'c4\'b1\'be\'bd\'f0\'bf\'b9\'cb\'f5\'cb\'ae\'c4\'dc\'c1\'a6}</string>
+\f0\fs28 \cf2 #00100
+\f1 \'a3\'ba\'d7\'a9\'b1\'be\'ce\'bb\'ba\'cd\'cf\'d6\'bd\'f0\'b1\'be\'ce\'bb\'b5\'c4\'b1\'be\'bd\'f0\'bf\'b9\'cb\'f5\'cb\'ae\'c4\'dc\'c1\'a6}</string>
 										</dict>
 									</dict>
 								</array>
@@ -730,7 +734,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;真相&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;真相&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -739,7 +743,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'d5\'e6\'cf\'e0}</string>
+\f0\fs28 \cf2 \'d5\'e6\'cf\'e0}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -754,9 +758,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-224, -132.5}</string>
+								<string>{-224, -131.5}</string>
 								<key>nodeID</key>
-								<string>0CD9F2AD-3E17-4225-A34E-65DD35C60A67</string>
+								<string>CF2F5F5E-E0A2-4251-95CD-228238E5D3A9</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -777,9 +781,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -179}</string>
+										<string>{-581, -180}</string>
 										<key>nodeID</key>
-										<string>3AA19F9A-D831-460A-A754-42A443F69A2D</string>
+										<string>D942E1AC-A237-451A-B778-E8A398A36E65</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -793,7 +797,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00090&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：做全身心投入的战略投资人，而不是财务投资人&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00090&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：做全身心投入的战略投资人，而不是财务投资人&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -802,8 +806,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00090
-\f1 \cf2 \'a3\'ba\'d7\'f6\'c8\'ab\'c9\'ed\'d0\'c4\'cd\'b6\'c8\'eb\'b5\'c4\'d5\'bd\'c2\'d4\'cd\'b6\'d7\'ca\'c8\'cb\'a3\'ac\'b6\'f8\'b2\'bb\'ca\'c7\'b2\'c6\'ce\'f1\'cd\'b6\'d7\'ca\'c8\'cb}</string>
+\f0\fs28 \cf2 #00090
+\f1 \'a3\'ba\'d7\'f6\'c8\'ab\'c9\'ed\'d0\'c4\'cd\'b6\'c8\'eb\'b5\'c4\'d5\'bd\'c2\'d4\'cd\'b6\'d7\'ca\'c8\'cb\'a3\'ac\'b6\'f8\'b2\'bb\'ca\'c7\'b2\'c6\'ce\'f1\'cd\'b6\'d7\'ca\'c8\'cb}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -818,9 +822,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-470, -134}</string>
+										<string>{-483, -133}</string>
 										<key>nodeID</key>
-										<string>57D8488E-AD55-4E07-9444-3C4AEC8A9B46</string>
+										<string>77E43EF0-4206-451F-9ACF-3077C86A0EC4</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -834,7 +838,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00110&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：富人恒贫，慧者恒富&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00110&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：富人恒贫，慧者恒富&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -843,8 +847,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00110
-\f1 \cf2 \'a3\'ba\'b8\'bb\'c8\'cb\'ba\'e3\'c6\'b6\'a3\'ac\'bb\'db\'d5\'df\'ba\'e3\'b8\'bb}</string>
+\f0\fs28 \cf2 #00110
+\f1 \'a3\'ba\'b8\'bb\'c8\'cb\'ba\'e3\'c6\'b6\'a3\'ac\'bb\'db\'d5\'df\'ba\'e3\'b8\'bb}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -859,9 +863,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -102}</string>
+										<string>{-581, -100}</string>
 										<key>nodeID</key>
-										<string>E696316F-8172-41A6-B0AC-C21AE093083B</string>
+										<string>ECE90D85-C724-42E5-82AA-DB2D0C990E53</string>
 										<key>strokeColor</key>
 										<string>{0.647, 0.468, 0.027, 1.000}</string>
 										<key>strokeStyle</key>
@@ -875,7 +879,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00120&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：唯一能让财富保值增值的，只有你的智慧和勤劳&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00120&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：唯一能让财富保值增值的，只有你的智慧和勤劳&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -884,8 +888,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00120
-\f1 \cf2 \'a3\'ba\'ce\'a8\'d2\'bb\'c4\'dc\'c8\'c3\'b2\'c6\'b8\'bb\'b1\'a3\'d6\'b5\'d4\'f6\'d6\'b5\'b5\'c4\'a3\'ac\'d6\'bb\'d3\'d0\'c4\'e3\'b5\'c4\'d6\'c7\'bb\'db\'ba\'cd\'c7\'da\'c0\'cd}</string>
+\f0\fs28 \cf2 #00120
+\f1 \'a3\'ba\'ce\'a8\'d2\'bb\'c4\'dc\'c8\'c3\'b2\'c6\'b8\'bb\'b1\'a3\'d6\'b5\'d4\'f6\'d6\'b5\'b5\'c4\'a3\'ac\'d6\'bb\'d3\'d0\'c4\'e3\'b5\'c4\'d6\'c7\'bb\'db\'ba\'cd\'c7\'da\'c0\'cd}</string>
 										</dict>
 									</dict>
 								</array>
@@ -894,7 +898,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;勤劳&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;勤劳&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -903,7 +907,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'c7\'da\'c0\'cd}</string>
+\f0\fs28 \cf2 \'c7\'da\'c0\'cd}</string>
 								</dict>
 							</dict>
 						</array>
@@ -912,7 +916,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;三观&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;三观&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -921,7 +925,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'c8\'fd\'b9\'db}</string>
+\f0\fs28 \cf2 \'c8\'fd\'b9\'db}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -936,9 +940,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{146, -165.5}</string>
+						<string>{150, -183.5}</string>
 						<key>nodeID</key>
-						<string>E2A3C406-D393-4948-9D47-730BFC7178C9</string>
+						<string>12ABADC6-EDCA-406F-A374-0F94ED099831</string>
 						<key>strokeColor</key>
 						<string>{0.450, 0.541, 0.020, 1.000}</string>
 						<key>strokeStyle</key>
@@ -959,9 +963,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, -608.5}</string>
+								<string>{262, -703.5}</string>
 								<key>nodeID</key>
-								<string>6B53C48F-FDBC-4033-930D-11435B3470F7</string>
+								<string>DF2D8150-47E8-4473-8720-83C32E4A32F3</string>
 								<key>strokeColor</key>
 								<string>{0.450, 0.541, 0.020, 1.000}</string>
 								<key>strokeStyle</key>
@@ -975,7 +979,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00250&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：上海市场细分为：外国人（欧美&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;&amp;amp;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;港澳台），本地人，外地人（土豪&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;&amp;amp;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屌丝&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;&amp;amp;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;民工）&lt;/span&gt;&lt;/p&gt;</string>
+									<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00250&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：上海市场细分为：外国人（欧美&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;&amp;amp;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;港澳台），本地人，外地人（土豪&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;&amp;amp;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屌丝&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;&amp;amp;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;民工）&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -984,7 +988,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00250
+\f0\fs28 \cf2 #00250
 \f1 \cf2 \'a3\'ba\'c9\'cf\'ba\'a3\'ca\'d0\'b3\'a1\'cf\'b8\'b7\'d6\'ce\'aa\'a3\'ba\'cd\'e2\'b9\'fa\'c8\'cb\'a3\'a8\'c5\'b7\'c3\'c0
 \f0 \cf2 &amp;
 \f1 \cf2 \'b8\'db\'b0\'c4\'cc\'a8\'a3\'a9\'a3\'ac\'b1\'be\'b5\'d8\'c8\'cb\'a3\'ac\'cd\'e2\'b5\'d8\'c8\'cb\'a3\'a8\'cd\'c1\'ba\'c0
@@ -1006,9 +1010,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, -517}</string>
+								<string>{262, -607.5}</string>
 								<key>nodeID</key>
-								<string>47A45970-94DA-483E-8FCE-A8FAD7DB2AE1</string>
+								<string>628881BB-93A3-4E4C-B2EA-9EED19026B1B</string>
 								<key>strokeColor</key>
 								<string>{0.450, 0.541, 0.020, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1029,9 +1033,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{370, -560.5}</string>
+										<string>{376, -653.5}</string>
 										<key>nodeID</key>
-										<string>8CAD01C6-351B-4146-8B3D-81A38D62A43D</string>
+										<string>50985DA3-1397-431B-A5CE-213F655E4EB7</string>
 										<key>strokeColor</key>
 										<string>{0.450, 0.541, 0.020, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1045,7 +1049,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00260&amp;amp;#00270&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝为了自己可以站住脚跟，不惜砸碎一切美好的东西；屌丝希望自己与众不同，出人头地，但未来是屌丝的；你离精英越近，你就离屌丝越远&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00260&amp;amp;#00270&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝为了自己可以站住脚跟，不惜砸碎一切美好的东西；屌丝希望自己与众不同，出人头地，但未来是屌丝的；你离精英越近，你就离屌丝越远&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -1054,7 +1058,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00260&amp;#00270
+\f0\fs28 \cf2 #00260&amp;#00270
 \f1 \cf2 \'a3\'ba\'8c\'c5\'cb\'bf\'ce\'aa\'c1\'cb\'d7\'d4\'bc\'ba\'bf\'c9\'d2\'d4\'d5\'be\'d7\'a1\'bd\'c5\'b8\'fa\'a3\'ac\'b2\'bb\'cf\'a7\'d4\'d2\'cb\'e9\'d2\'bb\'c7\'d0\'c3\'c0\'ba\'c3\'b5\'c4\'b6\'ab\'ce\'f7\'a3\'bb\'8c\'c5\'cb\'bf\'cf\'a3\'cd\'fb\'d7\'d4\'bc\'ba\'d3\'eb\'d6\'da\'b2\'bb\'cd\'ac\'a3\'ac\'b3\'f6\'c8\'cb\'cd\'b7\'b5\'d8\'a3\'ac\'b5\'ab\'ce\'b4\'c0\'b4\'ca\'c7\'8c\'c5\'cb\'bf\'b5\'c4\'a3\'bb\'c4\'e3\'c0\'eb\'be\'ab\'d3\'a2\'d4\'bd\'bd\'fc\'a3\'ac\'c4\'e3\'be\'cd\'c0\'eb\'8c\'c5\'cb\'bf\'d4\'bd\'d4\'b6}</string>
 										</dict>
 									</dict>
@@ -1070,9 +1074,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{370, -489.5}</string>
+										<string>{376, -578.5}</string>
 										<key>nodeID</key>
-										<string>44DF8343-405F-4F7F-BE50-7D924175670C</string>
+										<string>F5946209-6B13-4F83-B02E-EF22C696BBB5</string>
 										<key>strokeColor</key>
 										<string>{0.450, 0.541, 0.020, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1086,7 +1090,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00280&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：中国巨大的人口基数（中产阶级）正在上升，更多福利倾斜，更多的进行社会分配&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00280&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：中国巨大的人口基数（中产阶级）正在上升，更多福利倾斜，更多的进行社会分配&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -1095,7 +1099,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00280
+\f0\fs28 \cf2 #00280
 \f1 \cf2 \'a3\'ba\'d6\'d0\'b9\'fa\'be\'de\'b4\'f3\'b5\'c4\'c8\'cb\'bf\'da\'bb\'f9\'ca\'fd\'a3\'a8\'d6\'d0\'b2\'fa\'bd\'d7\'bc\'b6\'a3\'a9\'d5\'fd\'d4\'da\'c9\'cf\'c9\'fd\'a3\'ac\'b8\'fc\'b6\'e0\'b8\'a3\'c0\'fb\'c7\'e3\'d0\'b1\'a3\'ac\'b8\'fc\'b6\'e0\'b5\'c4\'bd\'f8\'d0\'d0\'c9\'e7\'bb\'e1\'b7\'d6\'c5\'e4}</string>
 										</dict>
 									</dict>
@@ -1105,7 +1109,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;新时代&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;新时代&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -1114,7 +1118,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'d0\'c2\'ca\'b1\'b4\'fa}</string>
+\f0\fs28 \cf2 \'d0\'c2\'ca\'b1\'b4\'fa}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -1129,9 +1133,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, -169}</string>
+								<string>{262, -200}</string>
 								<key>nodeID</key>
-								<string>5763942B-D290-4AAD-8E1F-7AEF34BBC6D9</string>
+								<string>FB57F252-3AA5-4A40-A09C-8AAFAE0D7206</string>
 								<key>strokeColor</key>
 								<string>{0.450, 0.541, 0.020, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1152,9 +1156,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{370, -190}</string>
+										<string>{374, -223.5}</string>
 										<key>nodeID</key>
-										<string>A4E8A497-BCD0-4D09-9041-C1F8BD849597</string>
+										<string>76F1A117-D6FD-4437-B6C9-9A2DBB7F69C3</string>
 										<key>strokeColor</key>
 										<string>{0.450, 0.541, 0.020, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1175,9 +1179,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{507, -317.5}</string>
+												<string>{516, -388.5}</string>
 												<key>nodeID</key>
-												<string>BA16134B-117C-41FC-8FDD-44AA33D9C83E</string>
+												<string>FA306F11-7B49-4EC2-B005-0C1E81040C7A</string>
 												<key>strokeColor</key>
 												<string>{0.450, 0.541, 0.020, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1198,9 +1202,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{631, -444.5}</string>
+														<string>{644, -531.5}</string>
 														<key>nodeID</key>
-														<string>40719F40-0A51-4A01-A58D-E6DB5E8B7BEA</string>
+														<string>CC448840-5473-4DB7-AAC4-00B76D689204</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1214,7 +1218,7 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00300&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝太向往孤僻，所以赚不了钱；超远郊新城品牌开发商一手期房精装小户型现代生活派&lt;/span&gt;&lt;/p&gt;</string>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00300&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝太向往孤僻，所以赚不了钱；超远郊新城品牌开发商一手期房精装小户型现代生活派&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
@@ -1223,7 +1227,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00300
+\f0\fs28 \cf2 #00300
 \f1 \cf2 \'a3\'ba\'8c\'c5\'cb\'bf\'cc\'ab\'cf\'f2\'cd\'f9\'b9\'c2\'c6\'a7\'a3\'ac\'cb\'f9\'d2\'d4\'d7\'ac\'b2\'bb\'c1\'cb\'c7\'ae\'a3\'bb\'b3\'ac\'d4\'b6\'bd\'bc\'d0\'c2\'b3\'c7\'c6\'b7\'c5\'c6\'bf\'aa\'b7\'a2\'c9\'cc\'d2\'bb\'ca\'d6\'c6\'da\'b7\'bf\'be\'ab\'d7\'b0\'d0\'a1\'bb\'a7\'d0\'cd\'cf\'d6\'b4\'fa\'c9\'fa\'bb\'ee\'c5\'c9}</string>
 														</dict>
 													</dict>
@@ -1239,9 +1243,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{631, -399.5}</string>
+														<string>{644, -470.5}</string>
 														<key>nodeID</key>
-														<string>A33D829E-094E-4B41-8C3B-B4F04CE6DB94</string>
+														<string>1032CAC5-83CE-462F-9BE0-7E918D54699A</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1255,7 +1259,7 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00309&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝所买的远郊一手房在出售时将会迎来逻辑悖论，市场上没有人需要远郊二手房&lt;/span&gt;&lt;/p&gt;</string>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00309&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝所买的远郊一手房在出售时将会迎来逻辑悖论，市场上没有人需要远郊二手房&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
@@ -1264,8 +1268,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00309
-\f1 \cf2 \'a3\'ba\'8c\'c5\'cb\'bf\'cb\'f9\'c2\'f2\'b5\'c4\'d4\'b6\'bd\'bc\'d2\'bb\'ca\'d6\'b7\'bf\'d4\'da\'b3\'f6\'ca\'db\'ca\'b1\'bd\'ab\'bb\'e1\'d3\'ad\'c0\'b4\'c2\'df\'bc\'ad\'e3\'a3\'c2\'db\'a3\'ac\'ca\'d0\'b3\'a1\'c9\'cf\'c3\'bb\'d3\'d0\'c8\'cb\'d0\'e8\'d2\'aa\'d4\'b6\'bd\'bc\'b6\'fe\'ca\'d6\'b7\'bf}</string>
+\f0\fs28 \cf2 #00309
+\f1 \'a3\'ba\'8c\'c5\'cb\'bf\'cb\'f9\'c2\'f2\'b5\'c4\'d4\'b6\'bd\'bc\'d2\'bb\'ca\'d6\'b7\'bf\'d4\'da\'b3\'f6\'ca\'db\'ca\'b1\'bd\'ab\'bb\'e1\'d3\'ad\'c0\'b4\'c2\'df\'bc\'ad\'e3\'a3\'c2\'db\'a3\'ac\'ca\'d0\'b3\'a1\'c9\'cf\'c3\'bb\'d3\'d0\'c8\'cb\'d0\'e8\'d2\'aa\'d4\'b6\'bd\'bc\'b6\'fe\'ca\'d6\'b7\'bf}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1280,9 +1284,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{631, -354.5}</string>
+														<string>{644, -423.5}</string>
 														<key>nodeID</key>
-														<string>DAB2B1D5-1131-46D4-B0BE-0847D01EA268</string>
+														<string>DB61DCCE-CD59-4BB7-AC52-1BA9140A2AB7</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1296,7 +1300,7 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00320&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝买房考虑的是今天（功能齐全尽可能便宜），老手买房考虑明天（&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;2025&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;年抛售时，尽可能受欢迎）&lt;/span&gt;&lt;/p&gt;</string>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00320&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：屌丝买房考虑的是今天（功能齐全尽可能便宜），老手买房考虑明天（&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;2025&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;年抛售时，尽可能受欢迎）&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
@@ -1305,10 +1309,10 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00320
-\f1 \cf2 \'a3\'ba\'8c\'c5\'cb\'bf\'c2\'f2\'b7\'bf\'bf\'bc\'c2\'c7\'b5\'c4\'ca\'c7\'bd\'f1\'cc\'ec\'a3\'a8\'b9\'a6\'c4\'dc\'c6\'eb\'c8\'ab\'be\'a1\'bf\'c9\'c4\'dc\'b1\'e3\'d2\'cb\'a3\'a9\'a3\'ac\'c0\'cf\'ca\'d6\'c2\'f2\'b7\'bf\'bf\'bc\'c2\'c7\'c3\'f7\'cc\'ec\'a3\'a8
-\f0 \cf2 2025
-\f1 \cf2 \'c4\'ea\'c5\'d7\'ca\'db\'ca\'b1\'a3\'ac\'be\'a1\'bf\'c9\'c4\'dc\'ca\'dc\'bb\'b6\'d3\'ad\'a3\'a9}</string>
+\f0\fs28 \cf2 #00320
+\f1 \'a3\'ba\'8c\'c5\'cb\'bf\'c2\'f2\'b7\'bf\'bf\'bc\'c2\'c7\'b5\'c4\'ca\'c7\'bd\'f1\'cc\'ec\'a3\'a8\'b9\'a6\'c4\'dc\'c6\'eb\'c8\'ab\'be\'a1\'bf\'c9\'c4\'dc\'b1\'e3\'d2\'cb\'a3\'a9\'a3\'ac\'c0\'cf\'ca\'d6\'c2\'f2\'b7\'bf\'bf\'bc\'c2\'c7\'c3\'f7\'cc\'ec\'a3\'a8
+\f0 2025
+\f1 \'c4\'ea\'c5\'d7\'ca\'db\'ca\'b1\'a3\'ac\'be\'a1\'bf\'c9\'c4\'dc\'ca\'dc\'bb\'b6\'d3\'ad\'a3\'a9}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1323,9 +1327,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{631, -293.5}</string>
+														<string>{644, -359.5}</string>
 														<key>nodeID</key>
-														<string>F83672B4-CDE9-4FA6-AD11-10D25CE7AEFE</string>
+														<string>C3BD9AD0-DC3D-461F-B2EC-6B2AC8897692</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1339,7 +1343,7 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00330&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：上海的处房情节大约&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;80%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，内地大约&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;90~95%&lt;/span&gt;&lt;/p&gt;</string>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00330&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：上海的处房情节大约&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;80%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，内地大约&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;90~95%&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
@@ -1348,11 +1352,181 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00330
-\f1 \cf2 \'a3\'ba\'c9\'cf\'ba\'a3\'b5\'c4\'b4\'a6\'b7\'bf\'c7\'e9\'bd\'da\'b4\'f3\'d4\'bc
+\f0\fs28 \cf2 #00330
+\f1 \'a3\'ba\'c9\'cf\'ba\'a3\'b5\'c4\'b4\'a6\'b7\'bf\'c7\'e9\'bd\'da\'b4\'f3\'d4\'bc
+\f0 80%
+\f1 \'a3\'ac\'c4\'da\'b5\'d8\'b4\'f3\'d4\'bc
+\f0 90~95%}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{0.037, 0.160, 0.198, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{644, -309.5}</string>
+														<key>nodeID</key>
+														<string>BCF650B8-3751-4A89-8752-5E6957A3D0D2</string>
+														<key>strokeColor</key>
+														<string>{0.450, 0.541, 0.020, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00340&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：买房，是一件落地打七折的事情，如何破，二手进，二手出&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 #00340
+\f1 \cf2 \'a3\'ba\'c2\'f2\'b7\'bf\'a3\'ac\'ca\'c7\'d2\'bb\'bc\'fe\'c2\'e4\'b5\'d8\'b4\'f2\'c6\'df\'d5\'db\'b5\'c4\'ca\'c2\'c7\'e9\'a3\'ac\'c8\'e7\'ba\'ce\'c6\'c6\'a3\'ac\'b6\'fe\'ca\'d6\'bd\'f8\'a3\'ac\'b6\'fe\'ca\'d6\'b3\'f6}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{0.037, 0.160, 0.198, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{644, -262.5}</string>
+														<key>nodeID</key>
+														<string>12E9C90C-43E8-432B-A56F-612F3A6FC4F0</string>
+														<key>strokeColor</key>
+														<string>{0.450, 0.541, 0.020, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00350&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：一手市场是增量，增量少好竞争，而一旦投入到二手存量市场就会被淹没&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 #00350
+\f1 \'a3\'ba\'d2\'bb\'ca\'d6\'ca\'d0\'b3\'a1\'ca\'c7\'d4\'f6\'c1\'bf\'a3\'ac\'d4\'f6\'c1\'bf\'c9\'d9\'ba\'c3\'be\'ba\'d5\'f9\'a3\'ac\'b6\'f8\'d2\'bb\'b5\'a9\'cd\'b6\'c8\'eb\'b5\'bd\'b6\'fe\'ca\'d6\'b4\'e6\'c1\'bf\'ca\'d0\'b3\'a1\'be\'cd\'bb\'e1\'b1\'bb\'d1\'cd\'c3\'bb}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屌丝购房&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'8c\'c5\'cb\'bf\'b9\'ba\'b7\'bf}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.037, 0.160, 0.198, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{516, -144.5}</string>
+												<key>nodeID</key>
+												<string>892EA36F-9238-44C1-9B17-C248698E264E</string>
+												<key>strokeColor</key>
+												<string>{0.450, 0.541, 0.020, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{0.037, 0.160, 0.198, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{644, -215.5}</string>
+														<key>nodeID</key>
+														<string>9FB46EDA-30AE-42AC-BA4E-EA345C1CC01C</string>
+														<key>strokeColor</key>
+														<string>{0.450, 0.541, 0.020, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00360&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;SOM&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;和&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;SOV&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的不重合，隐藏了除屌丝以外&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;80%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的民工小老板，他们是真正的二手房购买力&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 #00360
+\f1 \cf2 \'a3\'ba
+\f0 \cf2 SOM
+\f1 \cf2 \'ba\'cd
+\f0 \cf2 SOV
+\f1 \cf2 \'b5\'c4\'b2\'bb\'d6\'d8\'ba\'cf\'a3\'ac\'d2\'fe\'b2\'d8\'c1\'cb\'b3\'fd\'8c\'c5\'cb\'bf\'d2\'d4\'cd\'e2
 \f0 \cf2 80%
-\f1 \cf2 \'a3\'ac\'c4\'da\'b5\'d8\'b4\'f3\'d4\'bc
-\f0 \cf2 90~95%}</string>
+\f1 \cf2 \'b5\'c4\'c3\'f1\'b9\'a4\'d0\'a1\'c0\'cf\'b0\'e5\'a3\'ac\'cb\'fb\'c3\'c7\'ca\'c7\'d5\'e6\'d5\'fd\'b5\'c4\'b6\'fe\'ca\'d6\'b7\'bf\'b9\'ba\'c2\'f2\'c1\'a6}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1367,9 +1541,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{631, -245.5}</string>
+														<string>{644, -151.5}</string>
 														<key>nodeID</key>
-														<string>3D761069-309C-49B1-A6F3-D5D8430193E6</string>
+														<string>AD686939-BE24-4E9E-8000-F83F27F5CB70</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1383,128 +1557,7 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00340：买房，是一件落地打七折的事情，如何破，二手进，二手出&lt;/p&gt;</string>
-															<key>shrinkToFitContent</key>
-															<integer>1</integer>
-															<key>text</key>
-															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs26 \cf2 #00340\'a3\'ba\'c2\'f2\'b7\'bf\'a3\'ac\'ca\'c7\'d2\'bb\'bc\'fe\'c2\'e4\'b5\'d8\'b4\'f2\'c6\'df\'d5\'db\'b5\'c4\'ca\'c2\'c7\'e9\'a3\'ac\'c8\'e7\'ba\'ce\'c6\'c6\'a3\'ac\'b6\'fe\'ca\'d6\'bd\'f8\'a3\'ac\'b6\'fe\'ca\'d6\'b3\'f6}</string>
-														</dict>
-													</dict>
-													<dict>
-														<key>contentAlignment</key>
-														<integer>1</integer>
-														<key>fillColor</key>
-														<string>{0.037, 0.160, 0.198, 1.000}</string>
-														<key>isDecreasingBranchThickness</key>
-														<true/>
-														<key>isDrawingFill</key>
-														<false/>
-														<key>isLeftAligned</key>
-														<false/>
-														<key>location</key>
-														<string>{631, -203.5}</string>
-														<key>nodeID</key>
-														<string>14ACF7ED-A783-4033-8A12-B95E26E7BBF2</string>
-														<key>strokeColor</key>
-														<string>{0.450, 0.541, 0.020, 1.000}</string>
-														<key>strokeStyle</key>
-														<integer>0</integer>
-														<key>strokeWidth</key>
-														<real>2</real>
-														<key>subnodes</key>
-														<array/>
-														<key>title</key>
-														<dict>
-															<key>constrainedWidth</key>
-															<integer>300</integer>
-															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00350：一手市场是增量，增量少好竞争，而一旦投入到二手存量市场就会被淹没&lt;/p&gt;</string>
-															<key>shrinkToFitContent</key>
-															<integer>1</integer>
-															<key>text</key>
-															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs26 \cf2 #00350\'a3\'ba\'d2\'bb\'ca\'d6\'ca\'d0\'b3\'a1\'ca\'c7\'d4\'f6\'c1\'bf\'a3\'ac\'d4\'f6\'c1\'bf\'c9\'d9\'ba\'c3\'be\'ba\'d5\'f9\'a3\'ac\'b6\'f8\'d2\'bb\'b5\'a9\'cd\'b6\'c8\'eb\'b5\'bd\'b6\'fe\'ca\'d6\'b4\'e6\'c1\'bf\'ca\'d0\'b3\'a1\'be\'cd\'bb\'e1\'b1\'bb\'d1\'cd\'c3\'bb}</string>
-														</dict>
-													</dict>
-												</array>
-												<key>title</key>
-												<dict>
-													<key>constrainedWidth</key>
-													<integer>300</integer>
-													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屌丝购房&lt;/p&gt;</string>
-													<key>shrinkToFitContent</key>
-													<integer>1</integer>
-													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs26 \cf2 \'8c\'c5\'cb\'bf\'b9\'ba\'b7\'bf}</string>
-												</dict>
-											</dict>
-											<dict>
-												<key>contentAlignment</key>
-												<integer>1</integer>
-												<key>fillColor</key>
-												<string>{0.037, 0.160, 0.198, 1.000}</string>
-												<key>isDecreasingBranchThickness</key>
-												<true/>
-												<key>isDrawingFill</key>
-												<false/>
-												<key>isLeftAligned</key>
-												<false/>
-												<key>location</key>
-												<string>{507, -111.5}</string>
-												<key>nodeID</key>
-												<string>52FBD485-8DC2-45F1-BBC2-27B24C60AB45</string>
-												<key>strokeColor</key>
-												<string>{0.450, 0.541, 0.020, 1.000}</string>
-												<key>strokeStyle</key>
-												<integer>0</integer>
-												<key>strokeWidth</key>
-												<real>3</real>
-												<key>subnodes</key>
-												<array>
-													<dict>
-														<key>contentAlignment</key>
-														<integer>1</integer>
-														<key>fillColor</key>
-														<string>{0.037, 0.160, 0.198, 1.000}</string>
-														<key>isDecreasingBranchThickness</key>
-														<true/>
-														<key>isDrawingFill</key>
-														<false/>
-														<key>isLeftAligned</key>
-														<false/>
-														<key>location</key>
-														<string>{631, -161.5}</string>
-														<key>nodeID</key>
-														<string>1FC68F20-7FF5-4340-AEAD-CD804BC20ACD</string>
-														<key>strokeColor</key>
-														<string>{0.450, 0.541, 0.020, 1.000}</string>
-														<key>strokeStyle</key>
-														<integer>0</integer>
-														<key>strokeWidth</key>
-														<real>2</real>
-														<key>subnodes</key>
-														<array/>
-														<key>title</key>
-														<dict>
-															<key>constrainedWidth</key>
-															<integer>300</integer>
-															<key>htmlText</key>
-															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00360&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：SOM和SOV的不重合，隐藏了除屌丝以外80%的民工小老板，他们是真正的二手房购买力&lt;/span&gt;&lt;/p&gt;</string>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00370&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：不同于屌丝，源源不断的新增外来人口撑起了老公房、老大楼、商住楼（含土著）的市场&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
@@ -1513,8 +1566,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00360
-\f1 \cf2 \'a3\'baSOM\'ba\'cdSOV\'b5\'c4\'b2\'bb\'d6\'d8\'ba\'cf\'a3\'ac\'d2\'fe\'b2\'d8\'c1\'cb\'b3\'fd\'8c\'c5\'cb\'bf\'d2\'d4\'cd\'e280%\'b5\'c4\'c3\'f1\'b9\'a4\'d0\'a1\'c0\'cf\'b0\'e5\'a3\'ac\'cb\'fb\'c3\'c7\'ca\'c7\'d5\'e6\'d5\'fd\'b5\'c4\'b6\'fe\'ca\'d6\'b7\'bf\'b9\'ba\'c2\'f2\'c1\'a6}</string>
+\f0\fs28 \cf2 #00370
+\f1 \cf2 \'a3\'ba\'b2\'bb\'cd\'ac\'d3\'da\'8c\'c5\'cb\'bf\'a3\'ac\'d4\'b4\'d4\'b4\'b2\'bb\'b6\'cf\'b5\'c4\'d0\'c2\'d4\'f6\'cd\'e2\'c0\'b4\'c8\'cb\'bf\'da\'b3\'c5\'c6\'f0\'c1\'cb\'c0\'cf\'b9\'ab\'b7\'bf\'a1\'a2\'c0\'cf\'b4\'f3\'c2\'a5\'a1\'a2\'c9\'cc\'d7\'a1\'c2\'a5\'a3\'a8\'ba\'ac\'cd\'c1\'d6\'f8\'a3\'a9\'b5\'c4\'ca\'d0\'b3\'a1}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1529,9 +1582,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{631, -116.5}</string>
+														<string>{644, -90.5}</string>
 														<key>nodeID</key>
-														<string>AE3C31F9-C0E9-4587-B9C9-3F823D1B0147</string>
+														<string>B4A2B997-C617-4159-853B-91B56CD1BF8D</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1545,56 +1598,17 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00370：不同于屌丝，源源不断的新增外来人口撑起了老公房、老大楼、商住楼（含土著）的市场&lt;/p&gt;</string>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00420&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：老公房的两个对手：郊区次新房、市区新建小户型，二者都存在自身的问题&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00370\'a3\'ba\'b2\'bb\'cd\'ac\'d3\'da\'8c\'c5\'cb\'bf\'a3\'ac\'d4\'b4\'d4\'b4\'b2\'bb\'b6\'cf\'b5\'c4\'d0\'c2\'d4\'f6\'cd\'e2\'c0\'b4\'c8\'cb\'bf\'da\'b3\'c5\'c6\'f0\'c1\'cb\'c0\'cf\'b9\'ab\'b7\'bf\'a1\'a2\'c0\'cf\'b4\'f3\'c2\'a5\'a1\'a2\'c9\'cc\'d7\'a1\'c2\'a5\'a3\'a8\'ba\'ac\'cd\'c1\'d6\'f8\'a3\'a9\'b5\'c4\'ca\'d0\'b3\'a1}</string>
-														</dict>
-													</dict>
-													<dict>
-														<key>contentAlignment</key>
-														<integer>1</integer>
-														<key>fillColor</key>
-														<string>{0.037, 0.160, 0.198, 1.000}</string>
-														<key>isDecreasingBranchThickness</key>
-														<true/>
-														<key>isDrawingFill</key>
-														<false/>
-														<key>isLeftAligned</key>
-														<false/>
-														<key>location</key>
-														<string>{631, -74.5}</string>
-														<key>nodeID</key>
-														<string>4580B853-3A62-42DE-9D5E-78EA61151D68</string>
-														<key>strokeColor</key>
-														<string>{0.450, 0.541, 0.020, 1.000}</string>
-														<key>strokeStyle</key>
-														<integer>0</integer>
-														<key>strokeWidth</key>
-														<real>2</real>
-														<key>subnodes</key>
-														<array/>
-														<key>title</key>
-														<dict>
-															<key>constrainedWidth</key>
-															<integer>300</integer>
-															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00420：老公房的两个对手：郊区次新房、市区新建小户型，二者都存在自身的问题&lt;/p&gt;</string>
-															<key>shrinkToFitContent</key>
-															<integer>1</integer>
-															<key>text</key>
-															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs26 \cf2 #00420\'a3\'ba\'c0\'cf\'b9\'ab\'b7\'bf\'b5\'c4\'c1\'bd\'b8\'f6\'b6\'d4\'ca\'d6\'a3\'ba\'bd\'bc\'c7\'f8\'b4\'ce\'d0\'c2\'b7\'bf\'a1\'a2\'ca\'d0\'c7\'f8\'d0\'c2\'bd\'a8\'d0\'a1\'bb\'a7\'d0\'cd\'a3\'ac\'b6\'fe\'d5\'df\'b6\'bc\'b4\'e6\'d4\'da\'d7\'d4\'c9\'ed\'b5\'c4\'ce\'ca\'cc\'e2}</string>
+\f0\fs28 \cf2 #00420
+\f1 \cf2 \'a3\'ba\'c0\'cf\'b9\'ab\'b7\'bf\'b5\'c4\'c1\'bd\'b8\'f6\'b6\'d4\'ca\'d6\'a3\'ba\'bd\'bc\'c7\'f8\'b4\'ce\'d0\'c2\'b7\'bf\'a1\'a2\'ca\'d0\'c7\'f8\'d0\'c2\'bd\'a8\'d0\'a1\'bb\'a7\'d0\'cd\'a3\'ac\'b6\'fe\'d5\'df\'b6\'bc\'b4\'e6\'d4\'da\'d7\'d4\'c9\'ed\'b5\'c4\'ce\'ca\'cc\'e2}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1603,7 +1617,7 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;民工购房&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;民工购房&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
@@ -1612,7 +1626,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'c3\'f1\'b9\'a4\'b9\'ba\'b7\'bf}</string>
+\f0\fs28 \cf2 \'c3\'f1\'b9\'a4\'b9\'ba\'b7\'bf}</string>
 												</dict>
 											</dict>
 											<dict>
@@ -1627,9 +1641,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{507, -26}</string>
+												<string>{516, -35}</string>
 												<key>nodeID</key>
-												<string>A5778DB2-2BFE-4288-B0A6-31FD20C6359F</string>
+												<string>BF8E5280-EA9A-4ACC-9675-2CEE5CFFBDC6</string>
 												<key>strokeColor</key>
 												<string>{0.450, 0.541, 0.020, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1650,9 +1664,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{644, -32.5}</string>
+														<string>{658, -43.5}</string>
 														<key>nodeID</key>
-														<string>5962D9A2-2D0B-4BC6-B22C-14C66D271C07</string>
+														<string>DFDBB743-941D-4682-8B98-96B367EA64B9</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1666,16 +1680,17 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00380：外国人因为常变换住处、高租房补贴、抱团、人少的特点，从而扭曲了租房市场&lt;/p&gt;</string>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00380&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：外国人因为常变换住处、高租房补贴、抱团、人少的特点，从而扭曲了租房市场&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00380\'a3\'ba\'cd\'e2\'b9\'fa\'c8\'cb\'d2\'f2\'ce\'aa\'b3\'a3\'b1\'e4\'bb\'bb\'d7\'a1\'b4\'a6\'a1\'a2\'b8\'df\'d7\'e2\'b7\'bf\'b2\'b9\'cc\'f9\'a1\'a2\'b1\'a7\'cd\'c5\'a1\'a2\'c8\'cb\'c9\'d9\'b5\'c4\'cc\'d8\'b5\'e3\'a3\'ac\'b4\'d3\'b6\'f8\'c5\'a4\'c7\'fa\'c1\'cb\'d7\'e2\'b7\'bf\'ca\'d0\'b3\'a1}</string>
+\f0\fs28 \cf2 #00380
+\f1 \cf2 \'a3\'ba\'cd\'e2\'b9\'fa\'c8\'cb\'d2\'f2\'ce\'aa\'b3\'a3\'b1\'e4\'bb\'bb\'d7\'a1\'b4\'a6\'a1\'a2\'b8\'df\'d7\'e2\'b7\'bf\'b2\'b9\'cc\'f9\'a1\'a2\'b1\'a7\'cd\'c5\'a1\'a2\'c8\'cb\'c9\'d9\'b5\'c4\'cc\'d8\'b5\'e3\'a3\'ac\'b4\'d3\'b6\'f8\'c5\'a4\'c7\'fa\'c1\'cb\'d7\'e2\'b7\'bf\'ca\'d0\'b3\'a1}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1684,7 +1699,7 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;外国人购房&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;外国人购房&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
@@ -1693,7 +1708,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'cd\'e2\'b9\'fa\'c8\'cb\'b9\'ba\'b7\'bf}</string>
+\f0\fs28 \cf2 \'cd\'e2\'b9\'fa\'c8\'cb\'b9\'ba\'b7\'bf}</string>
 												</dict>
 											</dict>
 											<dict>
@@ -1708,9 +1723,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{507, 37}</string>
+												<string>{516, 44}</string>
 												<key>nodeID</key>
-												<string>D53C95C1-DABD-4E28-B298-B941A08892F0</string>
+												<string>B13A3B0E-4EE8-44BA-8CDA-89B03A5F6A39</string>
 												<key>strokeColor</key>
 												<string>{0.450, 0.541, 0.020, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1731,9 +1746,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{619, 9.5}</string>
+														<string>{630, 3.5}</string>
 														<key>nodeID</key>
-														<string>41074B49-E2DF-4DF7-A621-416DE7D9B462</string>
+														<string>1A91E810-D5DD-4EA5-98E7-7D75B865573A</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1747,16 +1762,17 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00400：就个人财富而言，上海土著是过去十五年成长最快的群体&lt;/p&gt;</string>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00400&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：就个人财富而言，上海土著是过去十五年成长最快的群体&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00400\'a3\'ba\'be\'cd\'b8\'f6\'c8\'cb\'b2\'c6\'b8\'bb\'b6\'f8\'d1\'d4\'a3\'ac\'c9\'cf\'ba\'a3\'cd\'c1\'d6\'f8\'ca\'c7\'b9\'fd\'c8\'a5\'ca\'ae\'ce\'e5\'c4\'ea\'b3\'c9\'b3\'a4\'d7\'ee\'bf\'ec\'b5\'c4\'c8\'ba\'cc\'e5}</string>
+\f0\fs28 \cf2 #00400
+\f1 \cf2 \'a3\'ba\'be\'cd\'b8\'f6\'c8\'cb\'b2\'c6\'b8\'bb\'b6\'f8\'d1\'d4\'a3\'ac\'c9\'cf\'ba\'a3\'cd\'c1\'d6\'f8\'ca\'c7\'b9\'fd\'c8\'a5\'ca\'ae\'ce\'e5\'c4\'ea\'b3\'c9\'b3\'a4\'d7\'ee\'bf\'ec\'b5\'c4\'c8\'ba\'cc\'e5}</string>
 														</dict>
 													</dict>
 													<dict>
@@ -1771,9 +1787,9 @@
 														<key>isLeftAligned</key>
 														<false/>
 														<key>location</key>
-														<string>{619, 51.5}</string>
+														<string>{630, 50.5}</string>
 														<key>nodeID</key>
-														<string>09E90401-3B6B-4E24-B234-4F5CF9503DD5</string>
+														<string>8EA2784E-71A8-418D-A69A-939BB9D453EC</string>
 														<key>strokeColor</key>
 														<string>{0.450, 0.541, 0.020, 1.000}</string>
 														<key>strokeStyle</key>
@@ -1787,16 +1803,21 @@
 															<key>constrainedWidth</key>
 															<integer>300</integer>
 															<key>htmlText</key>
-															<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00410：本地人被15年的大势每户塞了400w，贫富分化被均富了；富贵如浮云，万古无常青&lt;/p&gt;</string>
+															<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00410&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：本地人被&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;15&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;年的大势每户塞了&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;400w&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，贫富分化被均富了；富贵如浮云，万古无常青&lt;/span&gt;&lt;/p&gt;</string>
 															<key>shrinkToFitContent</key>
 															<integer>1</integer>
 															<key>text</key>
 															<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00410\'a3\'ba\'b1\'be\'b5\'d8\'c8\'cb\'b1\'bb15\'c4\'ea\'b5\'c4\'b4\'f3\'ca\'c6\'c3\'bf\'bb\'a7\'c8\'fb\'c1\'cb400w\'a3\'ac\'c6\'b6\'b8\'bb\'b7\'d6\'bb\'af\'b1\'bb\'be\'f9\'b8\'bb\'c1\'cb\'a3\'bb\'b8\'bb\'b9\'f3\'c8\'e7\'b8\'a1\'d4\'c6\'a3\'ac\'cd\'f2\'b9\'c5\'ce\'de\'b3\'a3\'c7\'e0}</string>
+\f0\fs28 \cf2 #00410
+\f1 \cf2 \'a3\'ba\'b1\'be\'b5\'d8\'c8\'cb\'b1\'bb
+\f0 \cf2 15
+\f1 \cf2 \'c4\'ea\'b5\'c4\'b4\'f3\'ca\'c6\'c3\'bf\'bb\'a7\'c8\'fb\'c1\'cb
+\f0 \cf2 400w
+\f1 \cf2 \'a3\'ac\'c6\'b6\'b8\'bb\'b7\'d6\'bb\'af\'b1\'bb\'be\'f9\'b8\'bb\'c1\'cb\'a3\'bb\'b8\'bb\'b9\'f3\'c8\'e7\'b8\'a1\'d4\'c6\'a3\'ac\'cd\'f2\'b9\'c5\'ce\'de\'b3\'a3\'c7\'e0}</string>
 														</dict>
 													</dict>
 												</array>
@@ -1805,7 +1826,7 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;本地人&lt;/p&gt;</string>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;本地人&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
@@ -1814,7 +1835,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'b1\'be\'b5\'d8\'c8\'cb}</string>
+\f0\fs28 \cf2 \'b1\'be\'b5\'d8\'c8\'cb}</string>
 												</dict>
 											</dict>
 										</array>
@@ -1823,7 +1844,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;按购房人群&lt;/p&gt;</string>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;按购房人群&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -1832,7 +1853,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'b0\'b4\'b9\'ba\'b7\'bf\'c8\'cb\'c8\'ba}</string>
+\f0\fs28 \cf2 \'b0\'b4\'b9\'ba\'b7\'bf\'c8\'cb\'c8\'ba}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -1847,9 +1868,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{370, 100}</string>
+										<string>{374, 123}</string>
 										<key>nodeID</key>
-										<string>0F9F871B-5AB6-4275-810E-980716AD5A8B</string>
+										<string>FC8D7DFC-ECA6-4C83-925B-39378FA77243</string>
 										<key>strokeColor</key>
 										<string>{0.450, 0.541, 0.020, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1870,9 +1891,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{507, 93.5}</string>
+												<string>{516, 114.5}</string>
 												<key>nodeID</key>
-												<string>26C6AC5D-030D-4FDC-BD33-01E33A857CCC</string>
+												<string>66BC7580-ACD9-4BB3-AAB8-C2CC40E39F0F</string>
 												<key>strokeColor</key>
 												<string>{0.450, 0.541, 0.020, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1886,16 +1907,17 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00450：买卖是买卖，租赁是租赁；作出决策前，搞清楚你想要什么&lt;/p&gt;</string>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00450&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：买卖是买卖，租赁是租赁；作出决策前，搞清楚你想要什么&lt;/span&gt;&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
 													<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00450\'a3\'ba\'c2\'f2\'c2\'f4\'ca\'c7\'c2\'f2\'c2\'f4\'a3\'ac\'d7\'e2\'c1\'de\'ca\'c7\'d7\'e2\'c1\'de\'a3\'bb\'d7\'f7\'b3\'f6\'be\'f6\'b2\'df\'c7\'b0\'a3\'ac\'b8\'e3\'c7\'e5\'b3\'fe\'c4\'e3\'cf\'eb\'d2\'aa\'ca\'b2\'c3\'b4}</string>
+\f0\fs28 \cf2 #00450
+\f1 \'a3\'ba\'c2\'f2\'c2\'f4\'ca\'c7\'c2\'f2\'c2\'f4\'a3\'ac\'d7\'e2\'c1\'de\'ca\'c7\'d7\'e2\'c1\'de\'a3\'bb\'d7\'f7\'b3\'f6\'be\'f6\'b2\'df\'c7\'b0\'a3\'ac\'b8\'e3\'c7\'e5\'b3\'fe\'c4\'e3\'cf\'eb\'d2\'aa\'ca\'b2\'c3\'b4}</string>
 												</dict>
 											</dict>
 										</array>
@@ -1904,7 +1926,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;按获利方式&lt;/p&gt;</string>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;按获利方式&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -1913,7 +1935,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'b0\'b4\'bb\'f1\'c0\'fb\'b7\'bd\'ca\'bd}</string>
+\f0\fs28 \cf2 \'b0\'b4\'bb\'f1\'c0\'fb\'b7\'bd\'ca\'bd}</string>
 										</dict>
 									</dict>
 								</array>
@@ -1922,7 +1944,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;割裂&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;割裂&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -1931,7 +1953,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'b8\'ee\'c1\'d1}</string>
+\f0\fs28 \cf2 \'b8\'ee\'c1\'d1}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -1946,9 +1968,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 135.5}</string>
+								<string>{262, 161.5}</string>
 								<key>nodeID</key>
-								<string>16FF73BF-7C0F-493E-9FBB-6882F5663F1B</string>
+								<string>33A9C064-DE71-4FF7-A807-BFC00220320F</string>
 								<key>strokeColor</key>
 								<string>{0.450, 0.541, 0.020, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1962,7 +1984,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00290&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：新城是&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;基建&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;-&amp;gt;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;卖地&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;-&amp;gt;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;基建&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;-&amp;gt;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;卖地&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;..”&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的过程（所谓的土地财政），可惜这个过程并不赚钱&lt;/span&gt;&lt;/p&gt;</string>
+									<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00290&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：新城是&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;基建&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;-&amp;gt;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;卖地&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;-&amp;gt;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;基建&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;-&amp;gt;&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;卖地&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;..”&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的过程（所谓的土地财政），可惜这个过程并不赚钱&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -1971,7 +1993,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00290
+\f0\fs28 \cf2 #00290
 \f1 \cf2 \'a3\'ba\'d0\'c2\'b3\'c7\'ca\'c7
 \f0 \cf2 \'93
 \f1 \cf2 \'bb\'f9\'bd\'a8
@@ -1997,9 +2019,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 180.5}</string>
+								<string>{262, 222.5}</string>
 								<key>nodeID</key>
-								<string>02552128-7608-4AEB-B481-52D7364DD368</string>
+								<string>48DB90CE-8214-432B-92CC-C2459C3194D6</string>
 								<key>strokeColor</key>
 								<string>{0.450, 0.541, 0.020, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2013,16 +2035,17 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00390：楼市中需要拿回溢价的房子就是小众市场；大家公认的好地段则是大众市场&lt;/p&gt;</string>
+									<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00390&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：楼市中需要拿回溢价的房子就是小众市场；大家公认的好地段则是大众市场&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00390\'a3\'ba\'c2\'a5\'ca\'d0\'d6\'d0\'d0\'e8\'d2\'aa\'c4\'c3\'bb\'d8\'d2\'e7\'bc\'db\'b5\'c4\'b7\'bf\'d7\'d3\'be\'cd\'ca\'c7\'d0\'a1\'d6\'da\'ca\'d0\'b3\'a1\'a3\'bb\'b4\'f3\'bc\'d2\'b9\'ab\'c8\'cf\'b5\'c4\'ba\'c3\'b5\'d8\'b6\'ce\'d4\'f2\'ca\'c7\'b4\'f3\'d6\'da\'ca\'d0\'b3\'a1}</string>
+\f0\fs28 \cf2 #00390
+\f1 \cf2 \'a3\'ba\'c2\'a5\'ca\'d0\'d6\'d0\'d0\'e8\'d2\'aa\'c4\'c3\'bb\'d8\'d2\'e7\'bc\'db\'b5\'c4\'b7\'bf\'d7\'d3\'be\'cd\'ca\'c7\'d0\'a1\'d6\'da\'ca\'d0\'b3\'a1\'a3\'bb\'b4\'f3\'bc\'d2\'b9\'ab\'c8\'cf\'b5\'c4\'ba\'c3\'b5\'d8\'b6\'ce\'d4\'f2\'ca\'c7\'b4\'f3\'d6\'da\'ca\'d0\'b3\'a1}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -2037,9 +2060,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 250}</string>
+								<string>{262, 303}</string>
 								<key>nodeID</key>
-								<string>64E8EE51-E291-4574-BB74-E7E6E720A582</string>
+								<string>34841281-2541-4AD8-9055-271A1DC8A60E</string>
 								<key>strokeColor</key>
 								<string>{0.450, 0.541, 0.020, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2060,9 +2083,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{370, 222.5}</string>
+										<string>{374, 269.5}</string>
 										<key>nodeID</key>
-										<string>111A2946-8D0E-4B1B-9B2F-C80EEE5DF19C</string>
+										<string>6B1B0D93-3878-464F-BB2D-EAF63B75DD3B</string>
 										<key>strokeColor</key>
 										<string>{0.450, 0.541, 0.020, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2076,16 +2099,17 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00430：炒楼客生存的基础：及早准备，预见与分析目标客户喜爱的房型&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00430&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：炒楼客生存的基础：及早准备，预见与分析目标客户喜爱的房型&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
 											<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00430\'a3\'ba\'b3\'b4\'c2\'a5\'bf\'cd\'c9\'fa\'b4\'e6\'b5\'c4\'bb\'f9\'b4\'a1\'a3\'ba\'bc\'b0\'d4\'e7\'d7\'bc\'b1\'b8\'a3\'ac\'d4\'a4\'bc\'fb\'d3\'eb\'b7\'d6\'ce\'f6\'c4\'bf\'b1\'ea\'bf\'cd\'bb\'a7\'cf\'b2\'b0\'ae\'b5\'c4\'b7\'bf\'d0\'cd}</string>
+\f0\fs28 \cf2 #00430
+\f1 \cf2 \'a3\'ba\'b3\'b4\'c2\'a5\'bf\'cd\'c9\'fa\'b4\'e6\'b5\'c4\'bb\'f9\'b4\'a1\'a3\'ba\'bc\'b0\'d4\'e7\'d7\'bc\'b1\'b8\'a3\'ac\'d4\'a4\'bc\'fb\'d3\'eb\'b7\'d6\'ce\'f6\'c4\'bf\'b1\'ea\'bf\'cd\'bb\'a7\'cf\'b2\'b0\'ae\'b5\'c4\'b7\'bf\'d0\'cd}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -2100,9 +2124,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{370, 264.5}</string>
+										<string>{374, 316.5}</string>
 										<key>nodeID</key>
-										<string>4B722257-602F-4BDB-860A-447D9D982317</string>
+										<string>D69A0387-2103-4FCA-B433-9C1BF75EE95B</string>
 										<key>strokeColor</key>
 										<string>{0.450, 0.541, 0.020, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2116,16 +2140,20 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00440：当期畅销的房型不一定是优秀的房型，但一定是消费者的“最新喜好”&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00440&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：当期畅销的房型不一定是优秀的房型，但一定是消费者的&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;最新喜好&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;”&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
 											<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00440\'a3\'ba\'b5\'b1\'c6\'da\'b3\'a9\'cf\'fa\'b5\'c4\'b7\'bf\'d0\'cd\'b2\'bb\'d2\'bb\'b6\'a8\'ca\'c7\'d3\'c5\'d0\'e3\'b5\'c4\'b7\'bf\'d0\'cd\'a3\'ac\'b5\'ab\'d2\'bb\'b6\'a8\'ca\'c7\'cf\'fb\'b7\'d1\'d5\'df\'b5\'c4\'a1\'b0\'d7\'ee\'d0\'c2\'cf\'b2\'ba\'c3\'a1\'b1}</string>
+\f0\fs28 \cf2 #00440
+\f1 \cf2 \'a3\'ba\'b5\'b1\'c6\'da\'b3\'a9\'cf\'fa\'b5\'c4\'b7\'bf\'d0\'cd\'b2\'bb\'d2\'bb\'b6\'a8\'ca\'c7\'d3\'c5\'d0\'e3\'b5\'c4\'b7\'bf\'d0\'cd\'a3\'ac\'b5\'ab\'d2\'bb\'b6\'a8\'ca\'c7\'cf\'fb\'b7\'d1\'d5\'df\'b5\'c4
+\f0 \cf2 \'93
+\f1 \cf2 \'d7\'ee\'d0\'c2\'cf\'b2\'ba\'c3
+\f0 \cf2 \'94}</string>
 										</dict>
 									</dict>
 								</array>
@@ -2134,7 +2162,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;房型&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;房型&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -2143,7 +2171,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'b7\'bf\'d0\'cd}</string>
+\f0\fs28 \cf2 \'b7\'bf\'d0\'cd}</string>
 								</dict>
 							</dict>
 						</array>
@@ -2152,7 +2180,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;市场&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;市场&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -2161,7 +2189,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'ca\'d0\'b3\'a1}</string>
+\f0\fs28 \cf2 \'ca\'d0\'b3\'a1}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -2176,9 +2204,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-112, 262.5}</string>
+						<string>{-112, 282.5}</string>
 						<key>nodeID</key>
-						<string>36701797-C732-452B-A2D6-0CCF4F7DD159</string>
+						<string>ED3893B9-3CB7-42BC-A157-EC391986EEBF</string>
 						<key>strokeColor</key>
 						<string>{0.747, 0.236, 0.101, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2199,9 +2227,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-224, 148.5}</string>
+								<string>{-224, 163}</string>
 								<key>nodeID</key>
-								<string>C8589DC1-0004-42F1-A43A-55998822C9E0</string>
+								<string>0AAAEEB8-9316-44D2-9666-E0146C68D8D2</string>
 								<key>strokeColor</key>
 								<string>{0.747, 0.236, 0.101, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2222,9 +2250,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -57}</string>
+										<string>{-581, -53}</string>
 										<key>nodeID</key>
-										<string>CB01B7FE-0551-4233-B732-FA6CBB273D5A</string>
+										<string>EDAE3A76-3893-4AA3-A30F-30F01BA1125B</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2238,7 +2266,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00130&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：通过真金白银实战，积累经验值，成本可以下降&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;20%&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00130&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：通过真金白银实战，积累经验值，成本可以下降&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;20%&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2247,7 +2275,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00130
+\f0\fs28 \cf2 #00130
 \f1 \cf2 \'a3\'ba\'cd\'a8\'b9\'fd\'d5\'e6\'bd\'f0\'b0\'d7\'d2\'f8\'ca\'b5\'d5\'bd\'a3\'ac\'bb\'fd\'c0\'db\'be\'ad\'d1\'e9\'d6\'b5\'a3\'ac\'b3\'c9\'b1\'be\'bf\'c9\'d2\'d4\'cf\'c2\'bd\'b5
 \f0 \cf2 20%}</string>
 										</dict>
@@ -2264,9 +2292,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, -9}</string>
+										<string>{-581, -3}</string>
 										<key>nodeID</key>
-										<string>C06B119F-BD16-4B2B-84E8-F0A21FAD3AFB</string>
+										<string>06D7DE1B-697F-48B1-8D02-D3A3CF3CC3DA</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2280,7 +2308,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00140&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：一个行业赚取了太多的名，那么就无利可言，名与利不可兼得&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00140&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：一个行业赚取了太多的名，那么就无利可言，名与利不可兼得&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2289,7 +2317,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00140
+\f0\fs28 \cf2 #00140
 \f1 \cf2 \'a3\'ba\'d2\'bb\'b8\'f6\'d0\'d0\'d2\'b5\'d7\'ac\'c8\'a1\'c1\'cb\'cc\'ab\'b6\'e0\'b5\'c4\'c3\'fb\'a3\'ac\'c4\'c7\'c3\'b4\'be\'cd\'ce\'de\'c0\'fb\'bf\'c9\'d1\'d4\'a3\'ac\'c3\'fb\'d3\'eb\'c0\'fb\'b2\'bb\'bf\'c9\'bc\'e6\'b5\'c3}</string>
 										</dict>
 									</dict>
@@ -2305,9 +2333,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-561, 36}</string>
+										<string>{-581, 44}</string>
 										<key>nodeID</key>
-										<string>7712A060-55F8-4C38-9C7A-2AFE586F360B</string>
+										<string>6DAE911C-BB1C-47D4-89B6-34076A04B922</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2321,7 +2349,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00150&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：商人通过贸易和流通，降低了制造成本，商人是巨大财富的制造者&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00150&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：商人通过贸易和流通，降低了制造成本，商人是巨大财富的制造者&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2330,7 +2358,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00150
+\f0\fs28 \cf2 #00150
 \f1 \cf2 \'a3\'ba\'c9\'cc\'c8\'cb\'cd\'a8\'b9\'fd\'c3\'b3\'d2\'d7\'ba\'cd\'c1\'f7\'cd\'a8\'a3\'ac\'bd\'b5\'b5\'cd\'c1\'cb\'d6\'c6\'d4\'ec\'b3\'c9\'b1\'be\'a3\'ac\'c9\'cc\'c8\'cb\'ca\'c7\'be\'de\'b4\'f3\'b2\'c6\'b8\'bb\'b5\'c4\'d6\'c6\'d4\'ec\'d5\'df}</string>
 										</dict>
 									</dict>
@@ -2346,9 +2374,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, 81}</string>
+										<string>{-581, 91}</string>
 										<key>nodeID</key>
-										<string>764F6FE0-7901-426F-A530-089BD15E377A</string>
+										<string>8217ED58-1331-413D-B620-7403BC046CF3</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2362,7 +2390,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00160&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：炒家要赚钱需要祈祷该地块没有拍成天价，幸苦斩获该地块的&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;KFS&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;房子不要卖天价&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00160&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：炒家要赚钱需要祈祷该地块没有拍成天价，幸苦斩获该地块的&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;KFS&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;房子不要卖天价&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2371,10 +2399,10 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00160
-\f1 \cf2 \'a3\'ba\'b3\'b4\'bc\'d2\'d2\'aa\'d7\'ac\'c7\'ae\'d0\'e8\'d2\'aa\'c6\'ed\'b5\'bb\'b8\'c3\'b5\'d8\'bf\'e9\'c3\'bb\'d3\'d0\'c5\'c4\'b3\'c9\'cc\'ec\'bc\'db\'a3\'ac\'d0\'d2\'bf\'e0\'d5\'b6\'bb\'f1\'b8\'c3\'b5\'d8\'bf\'e9\'b5\'c4
-\f0 \cf2 KFS
-\f1 \cf2 \'b7\'bf\'d7\'d3\'b2\'bb\'d2\'aa\'c2\'f4\'cc\'ec\'bc\'db}</string>
+\f0\fs28 \cf2 #00160
+\f1 \'a3\'ba\'b3\'b4\'bc\'d2\'d2\'aa\'d7\'ac\'c7\'ae\'d0\'e8\'d2\'aa\'c6\'ed\'b5\'bb\'b8\'c3\'b5\'d8\'bf\'e9\'c3\'bb\'d3\'d0\'c5\'c4\'b3\'c9\'cc\'ec\'bc\'db\'a3\'ac\'d0\'d2\'bf\'e0\'d5\'b6\'bb\'f1\'b8\'c3\'b5\'d8\'bf\'e9\'b5\'c4
+\f0 KFS
+\f1 \'b7\'bf\'d7\'d3\'b2\'bb\'d2\'aa\'c2\'f4\'cc\'ec\'bc\'db}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -2389,9 +2417,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, 129}</string>
+										<string>{-581, 141}</string>
 										<key>nodeID</key>
-										<string>ABF5DFB1-4886-4E34-9B10-BFFDF48FB400</string>
+										<string>0210DE46-5D2D-48E3-87F4-1158E7E250F5</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2405,7 +2433,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00170&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：要清楚手中的房子因何升值，不购买溢价附加值（精装，品牌，学区）&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00170&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：要清楚手中的房子因何升值，不购买溢价附加值（精装，品牌，学区）&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2414,8 +2442,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00170
-\f1 \cf2 \'a3\'ba\'d2\'aa\'c7\'e5\'b3\'fe\'ca\'d6\'d6\'d0\'b5\'c4\'b7\'bf\'d7\'d3\'d2\'f2\'ba\'ce\'c9\'fd\'d6\'b5\'a3\'ac\'b2\'bb\'b9\'ba\'c2\'f2\'d2\'e7\'bc\'db\'b8\'bd\'bc\'d3\'d6\'b5\'a3\'a8\'be\'ab\'d7\'b0\'a3\'ac\'c6\'b7\'c5\'c6\'a3\'ac\'d1\'a7\'c7\'f8\'a3\'a9}</string>
+\f0\fs28 \cf2 #00170
+\f1 \'a3\'ba\'d2\'aa\'c7\'e5\'b3\'fe\'ca\'d6\'d6\'d0\'b5\'c4\'b7\'bf\'d7\'d3\'d2\'f2\'ba\'ce\'c9\'fd\'d6\'b5\'a3\'ac\'b2\'bb\'b9\'ba\'c2\'f2\'d2\'e7\'bc\'db\'b8\'bd\'bc\'d3\'d6\'b5\'a3\'a8\'be\'ab\'d7\'b0\'a3\'ac\'c6\'b7\'c5\'c6\'a3\'ac\'d1\'a7\'c7\'f8\'a3\'a9}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -2430,9 +2458,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, 174}</string>
+										<string>{-581, 188}</string>
 										<key>nodeID</key>
-										<string>48E9E874-9551-440A-B3E5-F1E3B56B0234</string>
+										<string>816FABD1-5311-408D-9972-B6BB7AC3F61A</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2446,7 +2474,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00180&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：温州炒房团就是贵妇团，他们无论做什么投资都是最后一棒&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00180&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：温州炒房团就是贵妇团，他们无论做什么投资都是最后一棒&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2455,8 +2483,8 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00180
-\f1 \cf2 \'a3\'ba\'ce\'c2\'d6\'dd\'b3\'b4\'b7\'bf\'cd\'c5\'be\'cd\'ca\'c7\'b9\'f3\'b8\'be\'cd\'c5\'a3\'ac\'cb\'fb\'c3\'c7\'ce\'de\'c2\'db\'d7\'f6\'ca\'b2\'c3\'b4\'cd\'b6\'d7\'ca\'b6\'bc\'ca\'c7\'d7\'ee\'ba\'f3\'d2\'bb\'b0\'f4}</string>
+\f0\fs28 \cf2 #00180
+\f1 \'a3\'ba\'ce\'c2\'d6\'dd\'b3\'b4\'b7\'bf\'cd\'c5\'be\'cd\'ca\'c7\'b9\'f3\'b8\'be\'cd\'c5\'a3\'ac\'cb\'fb\'c3\'c7\'ce\'de\'c2\'db\'d7\'f6\'ca\'b2\'c3\'b4\'cd\'b6\'d7\'ca\'b6\'bc\'ca\'c7\'d7\'ee\'ba\'f3\'d2\'bb\'b0\'f4}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -2471,9 +2499,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-583, 219}</string>
+										<string>{-578, 235}</string>
 										<key>nodeID</key>
-										<string>C584A2DC-54C9-4C8C-92EC-24FB4DC5AA31</string>
+										<string>DFE646E7-223D-4225-A797-92F8C3169701</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2487,7 +2515,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00190&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;落袋&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;”&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;这种事情，归根到底还是看你手里是泡沫还是真金&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00190&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;落袋&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;”&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;这种事情，归根到底还是看你手里是泡沫还是真金&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2496,12 +2524,12 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00190
-\f1 \cf2 \'a3\'ba
-\f0 \cf2 \'93
-\f1 \cf2 \'c2\'e4\'b4\'fc
-\f0 \cf2 \'94
-\f1 \cf2 \'d5\'e2\'d6\'d6\'ca\'c2\'c7\'e9\'a3\'ac\'b9\'e9\'b8\'f9\'b5\'bd\'b5\'d7\'bb\'b9\'ca\'c7\'bf\'b4\'c4\'e3\'ca\'d6\'c0\'ef\'ca\'c7\'c5\'dd\'c4\'ad\'bb\'b9\'ca\'c7\'d5\'e6\'bd\'f0}</string>
+\f0\fs28 \cf2 #00190
+\f1 \'a3\'ba
+\f0 \'93
+\f1 \'c2\'e4\'b4\'fc
+\f0 \'94
+\f1 \'d5\'e2\'d6\'d6\'ca\'c2\'c7\'e9\'a3\'ac\'b9\'e9\'b8\'f9\'b5\'bd\'b5\'d7\'bb\'b9\'ca\'c7\'bf\'b4\'c4\'e3\'ca\'d6\'c0\'ef\'ca\'c7\'c5\'dd\'c4\'ad\'bb\'b9\'ca\'c7\'d5\'e6\'bd\'f0}</string>
 										</dict>
 									</dict>
 									<dict>
@@ -2516,9 +2544,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-548, 264}</string>
+										<string>{-567, 282}</string>
 										<key>nodeID</key>
-										<string>BB8C7781-856C-4C4E-971C-0B1F76F20A17</string>
+										<string>B5B2CB9C-01E6-4211-A445-A002A07EA901</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2532,7 +2560,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00192&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：炒楼忌讳：数钱，回忆录，休大假&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00192&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：炒楼忌讳：数钱，回忆录，休大假&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2541,7 +2569,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00192
+\f0\fs28 \cf2 #00192
 \f1 \cf2 \'a3\'ba\'b3\'b4\'c2\'a5\'bc\'c9\'bb\'e4\'a3\'ba\'ca\'fd\'c7\'ae\'a3\'ac\'bb\'d8\'d2\'e4\'c2\'bc\'a3\'ac\'d0\'dd\'b4\'f3\'bc\'d9}</string>
 										</dict>
 									</dict>
@@ -2557,9 +2585,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-574, 296}</string>
+										<string>{-581, 315}</string>
 										<key>nodeID</key>
-										<string>5AD7B7C3-8DFC-4075-8D58-BC2588666CCA</string>
+										<string>36892D51-C3EA-4DAC-8C87-D143736FFED8</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2573,7 +2601,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00200&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：职业炒家通常冷静、理性、通彻地看待这个世界&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00200&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：职业炒家通常冷静、理性、通彻地看待这个世界&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2582,7 +2610,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00200
+\f0\fs28 \cf2 #00200
 \f1 \cf2 \'a3\'ba\'d6\'b0\'d2\'b5\'b3\'b4\'bc\'d2\'cd\'a8\'b3\'a3\'c0\'e4\'be\'b2\'a1\'a2\'c0\'ed\'d0\'d4\'a1\'a2\'cd\'a8\'b3\'b9\'b5\'d8\'bf\'b4\'b4\'fd\'d5\'e2\'b8\'f6\'ca\'c0\'bd\'e7}</string>
 										</dict>
 									</dict>
@@ -2598,9 +2626,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-563, 341}</string>
+										<string>{-581, 362}</string>
 										<key>nodeID</key>
-										<string>F172577B-C23C-4EDD-BBF9-90248235DE9E</string>
+										<string>FEAFF512-64EB-4414-92EC-063FDE49297A</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2614,16 +2642,17 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00450：买卖是买卖，租赁是租赁；作出决策前，搞清楚你想要什么&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00450&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：买卖是买卖，租赁是租赁；作出决策前，搞清楚你想要什么&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
 											<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00450\'a3\'ba\'c2\'f2\'c2\'f4\'ca\'c7\'c2\'f2\'c2\'f4\'a3\'ac\'d7\'e2\'c1\'de\'ca\'c7\'d7\'e2\'c1\'de\'a3\'bb\'d7\'f7\'b3\'f6\'be\'f6\'b2\'df\'c7\'b0\'a3\'ac\'b8\'e3\'c7\'e5\'b3\'fe\'c4\'e3\'cf\'eb\'d2\'aa\'ca\'b2\'c3\'b4}</string>
+\f0\fs28 \cf2 #00450
+\f1 \'a3\'ba\'c2\'f2\'c2\'f4\'ca\'c7\'c2\'f2\'c2\'f4\'a3\'ac\'d7\'e2\'c1\'de\'ca\'c7\'d7\'e2\'c1\'de\'a3\'bb\'d7\'f7\'b3\'f6\'be\'f6\'b2\'df\'c7\'b0\'a3\'ac\'b8\'e3\'c7\'e5\'b3\'fe\'c4\'e3\'cf\'eb\'d2\'aa\'ca\'b2\'c3\'b4}</string>
 										</dict>
 									</dict>
 								</array>
@@ -2632,7 +2661,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;认知&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;认知&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -2641,7 +2670,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'c8\'cf\'d6\'aa}</string>
+\f0\fs28 \cf2 \'c8\'cf\'d6\'aa}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -2656,9 +2685,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-236, 482.5}</string>
+								<string>{-240, 513.5}</string>
 								<key>nodeID</key>
-								<string>C9E87EEC-CFF6-477B-AE78-BD6BC4816087</string>
+								<string>46538E3F-1054-4076-8924-74B36A302334</string>
 								<key>strokeColor</key>
 								<string>{0.747, 0.236, 0.101, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2679,9 +2708,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-573, 383}</string>
+										<string>{-597, 409}</string>
 										<key>nodeID</key>
-										<string>5E1E000F-B8C0-4E3E-AB50-470C0164B50E</string>
+										<string>A5DAFBED-C380-418C-9205-C6532C788686</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2695,7 +2724,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00210&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：要深入了解楼市（一个高度割裂的市场）就一定要阅读细分结构&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00210&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：要深入了解楼市（一个高度割裂的市场）就一定要阅读细分结构&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2704,7 +2733,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00210
+\f0\fs28 \cf2 #00210
 \f1 \cf2 \'a3\'ba\'d2\'aa\'c9\'ee\'c8\'eb\'c1\'cb\'bd\'e2\'c2\'a5\'ca\'d0\'a3\'a8\'d2\'bb\'b8\'f6\'b8\'df\'b6\'c8\'b8\'ee\'c1\'d1\'b5\'c4\'ca\'d0\'b3\'a1\'a3\'a9\'be\'cd\'d2\'bb\'b6\'a8\'d2\'aa\'d4\'c4\'b6\'c1\'cf\'b8\'b7\'d6\'bd\'e1\'b9\'b9}</string>
 										</dict>
 									</dict>
@@ -2720,9 +2749,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-596, 428}</string>
+										<string>{-598, 456}</string>
 										<key>nodeID</key>
-										<string>DCDD5A3C-2345-454E-9921-EBA161D63A57</string>
+										<string>7BA185ED-CD08-4DB2-BF5C-604ADBA8ABA0</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2736,7 +2765,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00220&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;KFS&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在卖出时花费了巨大的心力（包含附加值），而&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;Re-Sale&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;是孤军奋战，况且买一手和二手是两类人&lt;/span&gt;&lt;/p&gt;</string>
+											<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00220&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;KFS&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在卖出时花费了巨大的心力（包含附加值），而&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;Re-Sale&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;是孤军奋战，况且买一手和二手是两类人&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2745,7 +2774,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00220
+\f0\fs28 \cf2 #00220
 \f1 \cf2 \'a3\'ba
 \f0 \cf2 KFS
 \f1 \cf2 \'d4\'da\'c2\'f4\'b3\'f6\'ca\'b1\'bb\'a8\'b7\'d1\'c1\'cb\'be\'de\'b4\'f3\'b5\'c4\'d0\'c4\'c1\'a6\'a3\'a8\'b0\'fc\'ba\'ac\'b8\'bd\'bc\'d3\'d6\'b5\'a3\'a9\'a3\'ac\'b6\'f8
@@ -2765,9 +2794,9 @@
 										<key>isLeftAligned</key>
 										<true/>
 										<key>location</key>
-										<string>{-348, 535.5}</string>
+										<string>{-354, 569}</string>
 										<key>nodeID</key>
-										<string>8E88892A-C4B9-4E54-8A02-C608230AACDB</string>
+										<string>4B2CDEA9-350E-41ED-8514-73D2585F7141</string>
 										<key>strokeColor</key>
 										<string>{0.747, 0.236, 0.101, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2788,9 +2817,9 @@
 												<key>isLeftAligned</key>
 												<true/>
 												<key>location</key>
-												<string>{-701, 489}</string>
+												<string>{-715, 520}</string>
 												<key>nodeID</key>
-												<string>BCF27921-DCC2-4D1E-BDC8-8C7CD5DA75FE</string>
+												<string>EF1B38E0-6903-45EF-B1D6-6ABBE6ED35CF</string>
 												<key>strokeColor</key>
 												<string>{0.747, 0.236, 0.101, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2804,7 +2833,7 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00230&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：定位图是以用户最关心的两点作为&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;XY&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;轴；外企和民企的&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;15%~20%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;销售额是留作广告和促销费用&lt;/span&gt;&lt;/p&gt;</string>
+													<string>&lt;p&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00230&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：定位图是以用户最关心的两点作为&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;XY&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;轴；外企和民企的&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;15%~20%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;销售额是留作广告和促销费用&lt;/span&gt;&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
@@ -2813,7 +2842,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00230
+\f0\fs28 \cf2 #00230
 \f1 \cf2 \'a3\'ba\'b6\'a8\'ce\'bb\'cd\'bc\'ca\'c7\'d2\'d4\'d3\'c3\'bb\'a7\'d7\'ee\'b9\'d8\'d0\'c4\'b5\'c4\'c1\'bd\'b5\'e3\'d7\'f7\'ce\'aa
 \f0 \cf2 XY
 \f1 \cf2 \'d6\'e1\'a3\'bb\'cd\'e2\'c6\'f3\'ba\'cd\'c3\'f1\'c6\'f3\'b5\'c4
@@ -2833,9 +2862,9 @@
 												<key>isLeftAligned</key>
 												<true/>
 												<key>location</key>
-												<string>{-706, 550}</string>
+												<string>{-706, 584}</string>
 												<key>nodeID</key>
-												<string>B2FA7F92-C9A5-4E62-BABA-A0D6226764FC</string>
+												<string>BE119100-D7A9-4E3D-862F-F595C459EBDA</string>
 												<key>strokeColor</key>
 												<string>{0.747, 0.236, 0.101, 1.000}</string>
 												<key>strokeStyle</key>
@@ -2849,7 +2878,7 @@
 													<key>constrainedWidth</key>
 													<integer>300</integer>
 													<key>htmlText</key>
-													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00240&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：竞争对手的优秀，决定了你的成本线，超过他的部分才是超额利润；一个产品在刚上市的时候性价比最高，&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;MIP&lt;/span&gt;&lt;/p&gt;</string>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00240&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：竞争对手的优秀，决定了你的成本线，超过他的部分才是超额利润；一个产品在刚上市的时候性价比最高，&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;MIP&lt;/span&gt;&lt;/p&gt;</string>
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
@@ -2858,9 +2887,9 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 #00240
-\f1 \cf2 \'a3\'ba\'be\'ba\'d5\'f9\'b6\'d4\'ca\'d6\'b5\'c4\'d3\'c5\'d0\'e3\'a3\'ac\'be\'f6\'b6\'a8\'c1\'cb\'c4\'e3\'b5\'c4\'b3\'c9\'b1\'be\'cf\'df\'a3\'ac\'b3\'ac\'b9\'fd\'cb\'fb\'b5\'c4\'b2\'bf\'b7\'d6\'b2\'c5\'ca\'c7\'b3\'ac\'b6\'ee\'c0\'fb\'c8\'f3\'a3\'bb\'d2\'bb\'b8\'f6\'b2\'fa\'c6\'b7\'d4\'da\'b8\'d5\'c9\'cf\'ca\'d0\'b5\'c4\'ca\'b1\'ba\'f2\'d0\'d4\'bc\'db\'b1\'c8\'d7\'ee\'b8\'df\'a3\'ac
-\f0 \cf2 MIP}</string>
+\f0\fs28 \cf2 #00240
+\f1 \'a3\'ba\'be\'ba\'d5\'f9\'b6\'d4\'ca\'d6\'b5\'c4\'d3\'c5\'d0\'e3\'a3\'ac\'be\'f6\'b6\'a8\'c1\'cb\'c4\'e3\'b5\'c4\'b3\'c9\'b1\'be\'cf\'df\'a3\'ac\'b3\'ac\'b9\'fd\'cb\'fb\'b5\'c4\'b2\'bf\'b7\'d6\'b2\'c5\'ca\'c7\'b3\'ac\'b6\'ee\'c0\'fb\'c8\'f3\'a3\'bb\'d2\'bb\'b8\'f6\'b2\'fa\'c6\'b7\'d4\'da\'b8\'d5\'c9\'cf\'ca\'d0\'b5\'c4\'ca\'b1\'ba\'f2\'d0\'d4\'bc\'db\'b1\'c8\'d7\'ee\'b8\'df\'a3\'ac
+\f0 MIP}</string>
 												</dict>
 											</dict>
 										</array>
@@ -2869,7 +2898,7 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;题外话&lt;/p&gt;</string>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;题外话&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
@@ -2878,7 +2907,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'cc\'e2\'cd\'e2\'bb\'b0}</string>
+\f0\fs28 \cf2 \'cc\'e2\'cd\'e2\'bb\'b0}</string>
 										</dict>
 									</dict>
 								</array>
@@ -2887,7 +2916,7 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;市场营销&lt;/p&gt;</string>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;市场营销&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -2896,7 +2925,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'ca\'d0\'b3\'a1\'d3\'aa\'cf\'fa}</string>
+\f0\fs28 \cf2 \'ca\'d0\'b3\'a1\'d3\'aa\'cf\'fa}</string>
 								</dict>
 							</dict>
 						</array>
@@ -2905,7 +2934,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;炒家&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;炒家&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -2914,7 +2943,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 \'b3\'b4\'bc\'d2}</string>
+\f0\fs28 \cf2 \'b3\'b4\'bc\'d2}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -2929,9 +2958,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{146, 467.5}</string>
+						<string>{150, 545.5}</string>
 						<key>nodeID</key>
-						<string>A043F433-4818-4BE0-BE11-DB894337A2E6</string>
+						<string>0602E0CA-F846-4AFD-A6D4-4C7E194A0C3A</string>
 						<key>strokeColor</key>
 						<string>{0.147, 0.571, 0.525, 1.000}</string>
 						<key>strokeStyle</key>
@@ -2952,9 +2981,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 313.5}</string>
+								<string>{262, 376.5}</string>
 								<key>nodeID</key>
-								<string>A3A72C14-9001-46B5-8A91-479CD6B76610</string>
+								<string>E1507E72-678C-4DF8-ACBE-D07C83C82F27</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -2975,9 +3004,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{400, 306.5}</string>
+										<string>{404, 366.5}</string>
 										<key>nodeID</key>
-										<string>E7BE4C57-2E31-4E41-A8FE-8D79DD3BF3FF</string>
+										<string>C9A85EB3-59BD-405B-A153-44085CA16F9A</string>
 										<key>strokeColor</key>
 										<string>{0.147, 0.571, 0.525, 1.000}</string>
 										<key>strokeStyle</key>
@@ -2991,16 +3020,23 @@
 											<key>constrainedWidth</key>
 											<integer>300</integer>
 											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00460&amp;amp;#00530：大面积低单价，赢利 = (卖出价 - 买入价) x 持有面积，就是囤价待涨&lt;/p&gt;</string>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00460&amp;amp;#00530&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：大面积低单价，赢利&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt; = (&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;卖出价&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt; - &lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;买入价&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;) x &lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;持有面积，就是囤价待涨&lt;/span&gt;&lt;/p&gt;</string>
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
 											<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00460&amp;#00530\'a3\'ba\'b4\'f3\'c3\'e6\'bb\'fd\'b5\'cd\'b5\'a5\'bc\'db\'a3\'ac\'d3\'ae\'c0\'fb = (\'c2\'f4\'b3\'f6\'bc\'db - \'c2\'f2\'c8\'eb\'bc\'db) x \'b3\'d6\'d3\'d0\'c3\'e6\'bb\'fd\'a3\'ac\'be\'cd\'ca\'c7\'b6\'da\'bc\'db\'b4\'fd\'d5\'c7}</string>
+\f0\fs28 \cf2 #00460&amp;#00530
+\f1 \'a3\'ba\'b4\'f3\'c3\'e6\'bb\'fd\'b5\'cd\'b5\'a5\'bc\'db\'a3\'ac\'d3\'ae\'c0\'fb
+\f0  = (
+\f1 \'c2\'f4\'b3\'f6\'bc\'db
+\f0  - 
+\f1 \'c2\'f2\'c8\'eb\'bc\'db
+\f0 ) x 
+\f1 \'b3\'d6\'d3\'d0\'c3\'e6\'bb\'fd\'a3\'ac\'be\'cd\'ca\'c7\'b6\'da\'bc\'db\'b4\'fd\'d5\'c7}</string>
 										</dict>
 									</dict>
 								</array>
@@ -3033,9 +3069,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 350.5}</string>
+								<string>{262, 416.5}</string>
 								<key>nodeID</key>
-								<string>8CE4C20C-C7A7-4671-A988-4DF277567E88</string>
+								<string>CCFB51CA-CE6A-4041-9A50-D77EB077B767</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3049,16 +3085,17 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00460：你归属于哪个流派，取决于启动资金，获利目标，能承担的风险以及所在城市&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00460&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：你归属于哪个流派，取决于启动资金，获利目标，能承担的风险以及所在城市&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00460\'a3\'ba\'c4\'e3\'b9\'e9\'ca\'f4\'d3\'da\'c4\'c4\'b8\'f6\'c1\'f7\'c5\'c9\'a3\'ac\'c8\'a1\'be\'f6\'d3\'da\'c6\'f4\'b6\'af\'d7\'ca\'bd\'f0\'a3\'ac\'bb\'f1\'c0\'fb\'c4\'bf\'b1\'ea\'a3\'ac\'c4\'dc\'b3\'d0\'b5\'a3\'b5\'c4\'b7\'e7\'cf\'d5\'d2\'d4\'bc\'b0\'cb\'f9\'d4\'da\'b3\'c7\'ca\'d0}</string>
+\f0\fs28 \cf2 #00460
+\f1 \'a3\'ba\'c4\'e3\'b9\'e9\'ca\'f4\'d3\'da\'c4\'c4\'b8\'f6\'c1\'f7\'c5\'c9\'a3\'ac\'c8\'a1\'be\'f6\'d3\'da\'c6\'f4\'b6\'af\'d7\'ca\'bd\'f0\'a3\'ac\'bb\'f1\'c0\'fb\'c4\'bf\'b1\'ea\'a3\'ac\'c4\'dc\'b3\'d0\'b5\'a3\'b5\'c4\'b7\'e7\'cf\'d5\'d2\'d4\'bc\'b0\'cb\'f9\'d4\'da\'b3\'c7\'ca\'d0}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -3073,9 +3110,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 394.5}</string>
+								<string>{262, 463.5}</string>
 								<key>nodeID</key>
-								<string>153B0817-C546-4D51-9B46-210D8E4D738C</string>
+								<string>59314298-1715-4CA4-A13D-1702E089814B</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3089,16 +3126,21 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00470：老破小追求租金回报在3.5%~5%的小面积；低总价追求CBD附近的最低总价&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00470&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：老破小追求租金回报在&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;3.5%~5%&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的小面积；低总价追求&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;CBD&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;附近的最低总价&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00470\'a3\'ba\'c0\'cf\'c6\'c6\'d0\'a1\'d7\'b7\'c7\'f3\'d7\'e2\'bd\'f0\'bb\'d8\'b1\'a8\'d4\'da3.5%~5%\'b5\'c4\'d0\'a1\'c3\'e6\'bb\'fd\'a3\'bb\'b5\'cd\'d7\'dc\'bc\'db\'d7\'b7\'c7\'f3CBD\'b8\'bd\'bd\'fc\'b5\'c4\'d7\'ee\'b5\'cd\'d7\'dc\'bc\'db}</string>
+\f0\fs28 \cf2 #00470
+\f1 \'a3\'ba\'c0\'cf\'c6\'c6\'d0\'a1\'d7\'b7\'c7\'f3\'d7\'e2\'bd\'f0\'bb\'d8\'b1\'a8\'d4\'da
+\f0 3.5%~5%
+\f1 \'b5\'c4\'d0\'a1\'c3\'e6\'bb\'fd\'a3\'bb\'b5\'cd\'d7\'dc\'bc\'db\'d7\'b7\'c7\'f3
+\f0 CBD
+\f1 \'b8\'bd\'bd\'fc\'b5\'c4\'d7\'ee\'b5\'cd\'d7\'dc\'bc\'db}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -3113,9 +3155,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 438.5}</string>
+								<string>{262, 513.5}</string>
 								<key>nodeID</key>
-								<string>6FC88D1D-12EF-4DFB-8821-7112D74B94CE</string>
+								<string>809531C6-BB0E-4EA6-A040-D694712AFF01</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3129,16 +3171,17 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00480：法祖需要能戳中外国人痛点的重细节的装修；民宿需要装修温馨有耐心善于打理&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00480&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：法祖需要能戳中外国人痛点的重细节的装修；民宿需要装修温馨有耐心善于打理&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00480\'a3\'ba\'b7\'a8\'d7\'e6\'d0\'e8\'d2\'aa\'c4\'dc\'b4\'c1\'d6\'d0\'cd\'e2\'b9\'fa\'c8\'cb\'cd\'b4\'b5\'e3\'b5\'c4\'d6\'d8\'cf\'b8\'bd\'da\'b5\'c4\'d7\'b0\'d0\'de\'a3\'bb\'c3\'f1\'cb\'de\'d0\'e8\'d2\'aa\'d7\'b0\'d0\'de\'ce\'c2\'dc\'b0\'d3\'d0\'c4\'cd\'d0\'c4\'c9\'c6\'d3\'da\'b4\'f2\'c0\'ed}</string>
+\f0\fs28 \cf2 #00480
+\f1 \'a3\'ba\'b7\'a8\'d7\'e6\'d0\'e8\'d2\'aa\'c4\'dc\'b4\'c1\'d6\'d0\'cd\'e2\'b9\'fa\'c8\'cb\'cd\'b4\'b5\'e3\'b5\'c4\'d6\'d8\'cf\'b8\'bd\'da\'b5\'c4\'d7\'b0\'d0\'de\'a3\'bb\'c3\'f1\'cb\'de\'d0\'e8\'d2\'aa\'d7\'b0\'d0\'de\'ce\'c2\'dc\'b0\'d3\'d0\'c4\'cd\'d0\'c4\'c9\'c6\'d3\'da\'b4\'f2\'c0\'ed}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -3153,9 +3196,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 482.5}</string>
+								<string>{262, 560.5}</string>
 								<key>nodeID</key>
-								<string>94458768-1C9B-437C-9C9E-1D19888766B5</string>
+								<string>B3534F21-B92A-4207-90C7-E67CA71BF1EB</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3169,16 +3212,17 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00490：药单流是不怕苦累地一层层来解药；银主盘是在银行有点人脉顺便达成买房一条龙&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00490&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：药单流是不怕苦累地一层层来解药；银主盘是在银行有点人脉顺便达成买房一条龙&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00490\'a3\'ba\'d2\'a9\'b5\'a5\'c1\'f7\'ca\'c7\'b2\'bb\'c5\'c2\'bf\'e0\'c0\'db\'b5\'d8\'d2\'bb\'b2\'e3\'b2\'e3\'c0\'b4\'bd\'e2\'d2\'a9\'a3\'bb\'d2\'f8\'d6\'f7\'c5\'cc\'ca\'c7\'d4\'da\'d2\'f8\'d0\'d0\'d3\'d0\'b5\'e3\'c8\'cb\'c2\'f6\'cb\'b3\'b1\'e3\'b4\'ef\'b3\'c9\'c2\'f2\'b7\'bf\'d2\'bb\'cc\'f5\'c1\'fa}</string>
+\f0\fs28 \cf2 #00490
+\f1 \'a3\'ba\'d2\'a9\'b5\'a5\'c1\'f7\'ca\'c7\'b2\'bb\'c5\'c2\'bf\'e0\'c0\'db\'b5\'d8\'d2\'bb\'b2\'e3\'b2\'e3\'c0\'b4\'bd\'e2\'d2\'a9\'a3\'bb\'d2\'f8\'d6\'f7\'c5\'cc\'ca\'c7\'d4\'da\'d2\'f8\'d0\'d0\'d3\'d0\'b5\'e3\'c8\'cb\'c2\'f6\'cb\'b3\'b1\'e3\'b4\'ef\'b3\'c9\'c2\'f2\'b7\'bf\'d2\'bb\'cc\'f5\'c1\'fa}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -3193,9 +3237,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 526.5}</string>
+								<string>{262, 607.5}</string>
 								<key>nodeID</key>
-								<string>0AB2E80A-EC3D-46A2-9CC9-4D7FD0127AB1</string>
+								<string>9954C709-974F-41EC-B7C0-ACC611D223E1</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3209,16 +3253,17 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00500：周转流在于找到折价凤姐变成冰冰，问题是交易成本过高&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00500&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：周转流在于找到折价凤姐变成冰冰，问题是交易成本过高&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00500\'a3\'ba\'d6\'dc\'d7\'aa\'c1\'f7\'d4\'da\'d3\'da\'d5\'d2\'b5\'bd\'d5\'db\'bc\'db\'b7\'ef\'bd\'e3\'b1\'e4\'b3\'c9\'b1\'f9\'b1\'f9\'a3\'ac\'ce\'ca\'cc\'e2\'ca\'c7\'bd\'bb\'d2\'d7\'b3\'c9\'b1\'be\'b9\'fd\'b8\'df}</string>
+\f0\fs28 \cf2 #00500
+\f1 \'a3\'ba\'d6\'dc\'d7\'aa\'c1\'f7\'d4\'da\'d3\'da\'d5\'d2\'b5\'bd\'d5\'db\'bc\'db\'b7\'ef\'bd\'e3\'b1\'e4\'b3\'c9\'b1\'f9\'b1\'f9\'a3\'ac\'ce\'ca\'cc\'e2\'ca\'c7\'bd\'bb\'d2\'d7\'b3\'c9\'b1\'be\'b9\'fd\'b8\'df}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -3233,9 +3278,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 570.5}</string>
+								<string>{262, 654.5}</string>
 								<key>nodeID</key>
-								<string>7951D321-776B-48FD-A867-938B2A3A5939</string>
+								<string>7316A268-A0F0-453B-9F87-432621EEAB5F</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3249,16 +3294,18 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00510：疯魔流拼勤奋换取回报，赢三博一；转组流将轻资产规模做大，租金溢价1:1&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00510&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：疯魔流拼勤奋换取回报，赢三博一；转组流将轻资产规模做大，租金溢价&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;1:1&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00510\'a3\'ba\'b7\'e8\'c4\'a7\'c1\'f7\'c6\'b4\'c7\'da\'b7\'dc\'bb\'bb\'c8\'a1\'bb\'d8\'b1\'a8\'a3\'ac\'d3\'ae\'c8\'fd\'b2\'a9\'d2\'bb\'a3\'bb\'d7\'aa\'d7\'e9\'c1\'f7\'bd\'ab\'c7\'e1\'d7\'ca\'b2\'fa\'b9\'e6\'c4\'a3\'d7\'f6\'b4\'f3\'a3\'ac\'d7\'e2\'bd\'f0\'d2\'e7\'bc\'db1:1}</string>
+\f0\fs28 \cf2 #00510
+\f1 \'a3\'ba\'b7\'e8\'c4\'a7\'c1\'f7\'c6\'b4\'c7\'da\'b7\'dc\'bb\'bb\'c8\'a1\'bb\'d8\'b1\'a8\'a3\'ac\'d3\'ae\'c8\'fd\'b2\'a9\'d2\'bb\'a3\'bb\'d7\'aa\'d7\'e9\'c1\'f7\'bd\'ab\'c7\'e1\'d7\'ca\'b2\'fa\'b9\'e6\'c4\'a3\'d7\'f6\'b4\'f3\'a3\'ac\'d7\'e2\'bd\'f0\'d2\'e7\'bc\'db
+\f0 1:1}</string>
 								</dict>
 							</dict>
 							<dict>
@@ -3273,9 +3320,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{258, 614.5}</string>
+								<string>{262, 704.5}</string>
 								<key>nodeID</key>
-								<string>F030C524-5567-4AAE-B4AF-D5297B925641</string>
+								<string>67BB158E-5640-42CE-ADEA-372E94F4BE91</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -3289,16 +3336,22 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;#00520：失败者：别墅豪宅，仁恒，旅游地产，分割商铺；人力八大流派是“错误”的A8&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;#00520&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;：失败者：别墅豪宅，仁恒，旅游地产，分割商铺；人力八大流派是&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;错误&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;”&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;的&lt;/span&gt;&lt;span style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;A8&lt;/span&gt;&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
 									<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs28 \cf2 #00520\'a3\'ba\'ca\'a7\'b0\'dc\'d5\'df\'a3\'ba\'b1\'f0\'ca\'fb\'ba\'c0\'d5\'ac\'a3\'ac\'c8\'ca\'ba\'e3\'a3\'ac\'c2\'c3\'d3\'ce\'b5\'d8\'b2\'fa\'a3\'ac\'b7\'d6\'b8\'ee\'c9\'cc\'c6\'cc\'a3\'bb\'c8\'cb\'c1\'a6\'b0\'cb\'b4\'f3\'c1\'f7\'c5\'c9\'ca\'c7\'a1\'b0\'b4\'ed\'ce\'f3\'a1\'b1\'b5\'c4A8}</string>
+\f0\fs28 \cf2 #00520
+\f1 \'a3\'ba\'ca\'a7\'b0\'dc\'d5\'df\'a3\'ba\'b1\'f0\'ca\'fb\'ba\'c0\'d5\'ac\'a3\'ac\'c8\'ca\'ba\'e3\'a3\'ac\'c2\'c3\'d3\'ce\'b5\'d8\'b2\'fa\'a3\'ac\'b7\'d6\'b8\'ee\'c9\'cc\'c6\'cc\'a3\'bb\'c8\'cb\'c1\'a6\'b0\'cb\'b4\'f3\'c1\'f7\'c5\'c9\'ca\'c7
+\f0 \'93
+\f1 \'b4\'ed\'ce\'f3
+\f0 \'94
+\f1 \'b5\'c4
+\f0 A8}</string>
 								</dict>
 							</dict>
 						</array>
@@ -3325,7 +3378,7 @@
 					<key>constrainedWidth</key>
 					<integer>300</integer>
 					<key>htmlText</key>
-					<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;Yevon-Ou&lt;/p&gt;</string>
+					<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;Yevon-Ou&lt;/p&gt;</string>
 					<key>shrinkToFitContent</key>
 					<integer>1</integer>
 					<key>text</key>
@@ -3334,7 +3387,7 @@
 {\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs26 \cf2 Yevon-Ou}</string>
+\f0\fs28 \cf2 Yevon-Ou}</string>
 				</dict>
 			</dict>
 		</array>
